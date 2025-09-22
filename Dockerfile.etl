@@ -1,0 +1,20 @@
+FROM python:3.10-slim
+
+# Set workdir
+WORKDIR /app
+
+# Copiar requirements
+COPY requirements.txt .
+
+# Instalar dependencias
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copiar código fuente
+COPY src ./src
+COPY data ./data
+
+# Variables de entorno para Postgres / S3 (se pueden sobreescribir en docker-compose)
+ENV PYTHONPATH=/app/src
+
+# Comando por defecto: correr tu script principal
+CMD ["python", "src/etl/main.py"]

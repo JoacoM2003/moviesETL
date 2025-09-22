@@ -1,0 +1,1209 @@
+id,name,genres,status,language,premiered,rating,network
+1,Under the Dome,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2013-06-24,6.5,CBS
+2,Person of Interest,"['Action', 'Crime', 'Science-Fiction']",Ended,English,2011-09-22,8.8,CBS
+3,Bitten,"['Drama', 'Horror', 'Romance']",Ended,English,2014-01-11,7.4,CTV Sci-Fi Channel
+4,Arrow,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2012-10-10,7.4,The CW
+5,True Detective,"['Drama', 'Crime', 'Thriller']",Running,English,2014-01-12,8.1,HBO
+6,The 100,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2014-03-19,7.7,The CW
+7,Homeland,"['Drama', 'Thriller', 'Espionage']",Ended,English,2011-10-02,8.2,Paramount+ with Showtime
+8,Glee,"['Drama', 'Music', 'Romance']",Ended,English,2009-05-19,6.7,FOX
+9,Revenge,"['Drama', 'Thriller', 'Mystery']",Ended,English,2011-09-21,7.7,ABC
+10,Grimm,"['Drama', 'Crime', 'Supernatural']",Ended,English,2011-10-28,8.4,NBC
+11,Gotham,"['Drama', 'Action', 'Crime']",Ended,English,2014-09-22,7.7,FOX
+12,Lost Girl,"['Drama', 'Fantasy', 'Horror']",Ended,English,2010-09-12,8.0,Showcase
+13,The Flash,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2014-10-07,7.5,The CW
+14,Continuum,"['Drama', 'Crime', 'Science-Fiction']",Ended,English,2012-05-27,8.0,Showcase
+15,Constantine,"['Drama', 'Action', 'Horror']",Ended,English,2014-10-24,7.5,NBC
+16,Penny Dreadful,"['Horror', 'Thriller', 'Supernatural']",Ended,English,2014-05-11,8.2,Paramount+ with Showtime
+18,The Amazing Race,"['Action', 'Adventure', 'Family']",Running,English,2001-09-05,6.8,CBS
+19,Supernatural,"['Drama', 'Action', 'Supernatural']",Ended,English,2005-09-13,8.4,The CW
+20,The Strain,"['Drama', 'Horror', 'Thriller']",Ended,English,2014-07-13,7.4,FX
+21,The Last Ship,"['Drama', 'Action', 'Thriller']",Ended,English,2014-06-22,7.5,TNT
+22,True Blood,"['Drama', 'Romance', 'Supernatural']",Ended,English,2008-09-07,7.9,HBO
+23,Once Upon a Time in Wonderland,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2013-10-10,6.8,ABC
+24,Hawaii Five-0,"['Drama', 'Action', 'Crime']",Ended,English,2010-09-20,7.7,CBS
+25,Hellsing,"['Anime', 'Horror', 'Supernatural']",Ended,Japanese,2001-10-10,7.3,Fuji TV
+26,Hellsing Ultimate,"['Drama', 'Action', 'Anime', 'Horror']",Ended,Japanese,2006-02-10,7.6,TBS
+27,Berserk,"['Anime', 'Fantasy', 'Horror']",Ended,Japanese,1997-10-07,8.1,NTV
+28,Californication,"['Drama', 'Comedy']",Ended,English,2007-08-13,7.8,Paramount+ with Showtime
+29,Vikings,"['Drama', 'Action', 'History']",Ended,English,2013-03-03,8.6,History
+30,American Horror Story,"['Drama', 'Horror', 'Thriller']",Running,English,2011-10-05,7.5,FX
+31,Marvel's Agents of S.H.I.E.L.D.,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2013-09-24,8.0,ABC
+32,Fargo,"['Drama', 'Comedy', 'Crime']",To be determined,English,2014-04-15,8.7,FX
+33,Hemlock Grove,"['Drama', 'Horror', 'Thriller']",Ended,English,2013-04-19,7.0,Unknown
+34,Helix,"['Horror', 'Science-Fiction', 'Thriller']",Ended,English,2014-01-10,6.5,Syfy
+35,The Killing,"['Drama', 'Crime', 'Thriller']",Ended,English,2011-04-03,8.2,AMC
+37,Intruders,"['Drama', 'Fantasy', 'Thriller']",Ended,English,2014-08-23,7.0,BBC America
+38,Z Nation,"['Action', 'Horror', 'Science-Fiction']",Ended,English,2014-09-12,7.2,Syfy
+39,Resurrection,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2014-03-09,7.1,ABC
+40,Death Note,"['Anime', 'Fantasy', 'Thriller']",Ended,Japanese,2006-10-03,8.8,NTV
+41,Last Man Standing,"['Comedy', 'Family']",Ended,English,2011-10-11,7.8,FOX
+42,Sleepy Hollow,"['Drama', 'Mystery', 'Supernatural']",Ended,English,2013-09-16,7.5,FOX
+43,Outlander,"['Adventure', 'Romance', 'Science-Fiction']",Running,English,2014-08-09,7.9,STARZ
+44,Scorpion,"['Drama', 'Action', 'Thriller']",Ended,English,2014-09-22,7.3,CBS
+45,NCIS: New Orleans,"['Drama', 'Crime']",Ended,English,2014-09-23,7.5,CBS
+46,Forever,"['Drama', 'Crime', 'Supernatural']",Ended,English,2014-09-22,8.1,ABC
+47,Witches of East End,"['Drama', 'Fantasy', 'Romance']",Ended,English,2013-10-06,7.5,Lifetime
+48,Madam Secretary,['Drama'],Ended,English,2014-09-21,7.7,CBS
+49,Brooklyn Nine-Nine,"['Comedy', 'Action', 'Crime']",Ended,English,2013-09-17,8.1,NBC
+50,The Lottery,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2014-07-20,6.5,Lifetime
+51,The Knick,"['Drama', 'Medical']",Ended,English,2014-08-08,8.3,Cinemax
+52,How to Get Away with Murder,"['Drama', 'Thriller', 'Legal']",Ended,English,2014-09-25,7.6,ABC
+53,Nashville,"['Drama', 'Music', 'Romance']",Ended,English,2012-10-10,7.4,CMT
+54,Legends,"['Drama', 'Crime', 'Thriller']",Ended,English,2014-08-13,7.5,TNT
+55,Red Band Society,"['Drama', 'Comedy']",Ended,English,2014-09-17,7.7,FOX
+56,Chicago P.D.,"['Drama', 'Crime']",Running,English,2014-01-08,8.0,NBC
+57,black-ish,"['Comedy', 'Family']",Ended,English,2014-09-24,6.1,ABC
+58,New Girl,"['Comedy', 'Romance']",Ended,English,2011-09-20,7.2,FOX
+59,Chicago Fire,"['Drama', 'Action']",Running,English,2012-10-10,8.0,NBC
+60,NCIS,"['Drama', 'Action', 'Crime']",Running,English,2003-09-23,7.9,CBS
+61,Orphan Black,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2013-03-30,8.6,CTV Sci-Fi Channel
+62,The Originals,"['Drama', 'Romance', 'Supernatural']",Ended,English,2013-10-03,8.2,The CW
+63,The Vampire Diaries,"['Drama', 'Romance', 'Supernatural']",Ended,English,2009-09-10,7.9,The CW
+64,Utopia,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2013-01-15,8.3,Channel 4
+65,Bones,"['Drama', 'Crime', 'Medical']",Ended,English,2005-09-13,8.1,FOX
+66,The Big Bang Theory,['Comedy'],Ended,English,2007-09-24,8.0,CBS
+67,Grey's Anatomy,"['Drama', 'Romance', 'Medical']",Running,English,2005-03-27,7.7,ABC
+68,Castle,"['Drama', 'Crime']",Ended,English,2009-03-09,8.2,ABC
+69,The Blacklist,"['Drama', 'Crime', 'Thriller']",Ended,English,2013-09-23,8.1,NBC
+70,The Voice,['Music'],Running,English,2011-04-26,5.8,NBC
+71,Dancing with the Stars,['Family'],Running,English,2005-06-01,6.3,ABC
+72,NCIS: Los Angeles,"['Drama', 'Action', 'Crime']",Ended,English,2009-09-22,7.9,CBS
+73,The Walking Dead,"['Drama', 'Action', 'Horror']",Ended,English,2010-10-31,7.9,Unknown
+74,Hell on Wheels,"['Drama', 'Action', 'Western']",Ended,English,2011-11-06,8.2,AMC
+75,The Mindy Project,"['Comedy', 'Romance', 'Medical']",Ended,English,2012-09-25,7.0,Unknown
+76,Sons of Anarchy,"['Drama', 'Action', 'Crime']",Ended,English,2008-09-03,8.3,FX
+77,The Middle,"['Comedy', 'Family']",Ended,English,2009-09-30,8.0,ABC
+78,The Mysteries of Laura,"['Comedy', 'Crime']",Ended,English,2014-09-17,7.3,NBC
+79,The Goldbergs,"['Comedy', 'Family']",Ended,English,2013-09-24,7.5,ABC
+80,Modern Family,"['Comedy', 'Family']",Ended,English,2009-09-23,7.7,ABC
+81,Criminal Minds,"['Drama', 'Crime', 'Thriller']",Running,English,2005-09-22,8.1,Unknown
+82,Game of Thrones,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2011-04-17,8.9,HBO
+83,The Simpsons,"['Comedy', 'Family']",Running,English,1989-12-17,8.1,FOX
+84,Family Guy,"['Comedy', 'Family']",Running,English,1999-01-31,7.6,FOX
+86,Stalker,"['Crime', 'Thriller']",Ended,English,2014-10-01,7.5,CBS
+87,The Bridge,"['Drama', 'Crime', 'Thriller']",Ended,English,2013-07-10,7.5,FX
+88,Reign,"['Drama', 'Romance', 'History']",Ended,English,2013-10-17,7.6,The CW
+89,Unforgettable,"['Drama', 'Crime']",Ended,English,2011-09-20,7.5,A&E
+90,Haven,"['Drama', 'Crime', 'Supernatural']",Ended,English,2010-07-09,8.0,Syfy
+91,Bad Judge,"['Comedy', 'Family']",Ended,English,2014-10-02,7.4,NBC
+92,A to Z,"['Comedy', 'Romance']",Ended,English,2014-10-02,6.7,NBC
+93,Parenthood,"['Drama', 'Comedy', 'Family']",Ended,English,2010-03-02,8.0,NBC
+94,Defiance,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2013-04-15,7.8,Syfy
+95,Falling Skies,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2011-06-19,7.6,TNT
+96,Manhattan Love Story,"['Comedy', 'Romance']",Ended,English,2014-09-30,5.4,ABC
+97,The Biggest Loser,[],Ended,English,2004-10-19,6.0,USA Network
+98,Scandal,"['Drama', 'Thriller']",Ended,English,2012-04-05,7.9,ABC
+99,America's Next Top Model,[],Ended,English,2003-05-20,5.5,VH1
+100,Blue Bloods,"['Drama', 'Crime']",Ended,English,2010-09-24,8.1,CBS
+101,The Good Wife,"['Drama', 'Crime', 'Legal']",Ended,English,2009-09-22,8.1,CBS
+102,Boardwalk Empire,"['Drama', 'Crime']",Ended,English,2010-09-19,8.4,HBO
+103,Law & Order: Special Victims Unit,"['Drama', 'Crime', 'Legal']",Running,English,1999-09-20,7.9,NBC
+104,Dominion,"['Action', 'Adventure', 'Fantasy']",Ended,English,2014-06-19,7.2,Syfy
+105,From Dusk Till Dawn: The Series,"['Action', 'Crime', 'Horror']",Ended,English,2014-03-11,6.6,El Rey Network
+106,Justified,"['Drama', 'Crime', 'Western']",Ended,English,2010-03-16,8.7,FX
+107,Bob's Burgers,"['Comedy', 'Family']",Running,English,2011-01-09,8.0,FOX
+108,Mulaney,"['Comedy', 'Family']",Ended,English,2014-10-05,6.0,FOX
+109,CSI: Crime Scene Investigation,"['Drama', 'Action', 'Crime']",Ended,English,2000-10-06,8.1,CBS
+110,Gracepoint,"['Drama', 'Crime', 'Mystery']",Ended,English,2014-10-02,7.8,FOX
+111,Once Upon a Time,"['Drama', 'Fantasy', 'Romance']",Ended,English,2011-10-23,7.5,ABC
+112,South Park,['Comedy'],Running,English,1997-08-13,8.3,Comedy Central
+114,Survivor,['Adventure'],Running,English,2000-05-31,7.3,CBS
+115,King of the Hill,['Comedy'],Running,English,1997-01-12,7.6,Unknown
+116,The Mentalist,"['Drama', 'Crime', 'Mystery']",Ended,English,2008-09-23,8.2,CBS
+117,Star Wars: Rebels,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2014-09-29,7.9,Disney XD
+118,House,"['Drama', 'Mystery', 'Medical']",Ended,English,2004-11-16,8.8,FOX
+120,Transparent,"['Drama', 'Comedy']",Ended,English,2014-09-26,7.3,Unknown
+122,Nikita,"['Drama', 'Action', 'Crime']",Ended,English,2010-09-09,7.8,The CW
+123,Lost,"['Drama', 'Adventure', 'Supernatural']",Ended,English,2004-09-22,8.2,ABC
+124,2 Broke Girls,['Comedy'],Ended,English,2011-09-19,7.2,CBS
+125,Selfie,"['Comedy', 'Romance']",Ended,English,2014-09-30,7.1,ABC
+126,Mom,"['Comedy', 'Family']",Ended,English,2013-09-23,7.7,CBS
+127,The Affair,"['Drama', 'Romance']",Ended,English,2014-10-12,7.7,Paramount+ with Showtime
+128,Jane the Virgin,"['Drama', 'Crime', 'Romance']",Ended,English,2014-10-13,7.4,The CW
+129,Marry Me,['Comedy'],Ended,English,2014-10-14,5.4,NBC
+130,Two and a Half Men,['Comedy'],Ended,English,2003-09-22,6.6,CBS
+131,About a Boy,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-02-22,6.5,NBC
+132,The Millers,['Comedy'],Ended,English,2013-10-03,6.2,CBS
+133,Elementary,"['Drama', 'Crime', 'Mystery']",Ended,English,2012-09-27,8.3,CBS
+134,Heroes,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2006-09-25,7.7,NBC
+136,The McCarthys,"['Comedy', 'Family']",Ended,English,2014-10-30,6.8,CBS
+137,Cristela,"['Comedy', 'Legal']",Ended,English,2014-10-10,7.0,ABC
+138,The Leftovers,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2014-06-29,8.0,HBO
+139,Girls,"['Drama', 'Romance']",Ended,English,2012-04-15,6.4,HBO
+140,Looking,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-01-19,7.2,HBO
+141,Getting On,"['Comedy', 'Medical']",Ended,English,2013-11-24,6.9,HBO
+142,Veep,['Comedy'],Ended,English,2012-04-22,8.0,HBO
+143,Silicon Valley,['Comedy'],Ended,English,2014-04-06,8.4,HBO
+144,The Comeback,['Comedy'],Running,English,2005-06-05,8.0,HBO
+145,House of Lies,"['Drama', 'Comedy']",Ended,English,2012-01-08,7.9,Paramount+ with Showtime
+146,Episodes,['Comedy'],Ended,English,2011-01-09,7.8,Paramount+ with Showtime
+147,Nurse Jackie,"['Drama', 'Comedy']",Ended,English,2009-06-08,7.9,Paramount+ with Showtime
+148,Web Therapy,['Comedy'],Ended,English,2011-07-19,7.1,Paramount+ with Showtime
+149,Masters of Sex,"['Drama', 'Romance', 'History']",Ended,English,2013-09-29,7.3,Paramount+ with Showtime
+150,Shameless,"['Drama', 'Comedy', 'Family']",Ended,English,2011-01-09,8.5,Paramount+ with Showtime
+151,The Newsroom,['Drama'],Ended,English,2012-06-24,8.4,HBO
+152,Ray Donovan,"['Drama', 'Action', 'Crime']",Ended,English,2013-06-30,8.1,Paramount+ with Showtime
+153,Utopia,[],Ended,English,2014-09-07,,FOX
+154,Sanctuary,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2008-10-03,8.0,Syfy
+155,Beauty & the Beast,"['Action', 'Romance', 'Science-Fiction']",Ended,English,2012-10-11,7.4,The CW
+156,Twin Peaks,"['Crime', 'Mystery', 'Supernatural']",Ended,English,1990-04-08,8.0,Paramount+ with Showtime
+157,The Americans,"['Drama', 'Espionage']",Ended,English,2013-01-30,8.5,FX
+158,Fringe,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2008-09-09,8.6,FOX
+159,State of Affairs,"['Drama', 'Thriller']",Ended,English,2014-11-17,6.5,NBC
+160,Weeds,"['Drama', 'Comedy', 'Crime']",Ended,English,2005-08-07,7.9,Paramount+ with Showtime
+161,Dexter,"['Drama', 'Crime', 'Mystery']",Ended,English,2006-10-01,8.4,Paramount+ with Showtime
+162,Carnivàle,"['Drama', 'Fantasy', 'Horror']",Ended,English,2003-09-14,8.0,HBO
+163,Human Target,"['Action', 'Adventure', 'Crime']",Ended,English,2010-01-17,8.0,FOX
+164,Banshee,"['Drama', 'Action', 'Crime']",Ended,English,2013-01-11,8.6,Cinemax
+165,Bionic Woman,"['Action', 'Science-Fiction']",Ended,English,2007-09-26,6.4,NBC
+166,Battlestar Galactica,"['Drama', 'Science-Fiction', 'War']",Ended,English,2003-12-08,8.7,Syfy
+167,24,"['Drama', 'Action', 'Thriller']",Ended,English,2001-11-06,8.3,FOX
+168,Chuck,"['Drama', 'Comedy', 'Action']",Ended,English,2007-09-24,8.3,NBC
+169,Breaking Bad,"['Drama', 'Crime', 'Thriller']",Ended,English,2008-01-20,9.2,AMC
+170,Orange Is the New Black,"['Drama', 'Comedy', 'Crime']",Ended,English,2013-07-11,7.9,Unknown
+171,How I Met Your Mother,"['Drama', 'Comedy', 'Romance']",Ended,English,2005-09-19,7.9,CBS
+172,Suits,"['Drama', 'Legal']",Ended,English,2011-06-23,8.2,USA Network
+174,Parks and Recreation,['Comedy'],Ended,English,2009-04-09,8.2,NBC
+175,House of Cards,"['Drama', 'Thriller']",Ended,English,2013-02-01,8.2,Unknown
+176,Teen Wolf,"['Drama', 'Romance', 'Supernatural']",Ended,English,2011-06-05,8.1,MTV
+177,Pretty Little Liars,"['Romance', 'Thriller', 'Mystery']",Ended,English,2010-06-08,7.5,Freeform
+178,The Legend of Korra,"['Action', 'Adventure', 'Fantasy']",Ended,English,2012-04-14,8.1,Nickelodeon
+179,The Wire,"['Drama', 'Crime']",Ended,English,2002-06-02,8.9,HBO
+180,Firefly,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2002-09-20,8.9,FOX
+181,Extant,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2014-07-09,7.3,CBS
+182,Black Sails,"['Drama', 'Action', 'Adventure']",Ended,English,2014-01-25,8.4,STARZ
+183,Tyrant,"['Drama', 'Thriller']",Ended,English,2014-06-24,7.8,FX
+184,BoJack Horseman,"['Drama', 'Comedy']",Ended,English,2014-08-22,7.9,Unknown
+185,Salem,"['Drama', 'Thriller', 'Supernatural']",Ended,English,2014-04-20,6.9,NewsNation
+186,TURN: Washington's Spies,"['Drama', 'War']",Ended,English,2014-04-06,7.9,AMC
+187,Intelligence,"['Action', 'Science-Fiction']",Ended,English,2014-01-07,6.6,CBS
+188,Believe,"['Drama', 'Action', 'Fantasy']",Ended,English,2014-03-10,7.4,NBC
+189,Star-Crossed,"['Drama', 'Romance', 'Science-Fiction']",Ended,English,2014-02-17,6.9,The CW
+190,Crisis,"['Drama', 'Action', 'Thriller']",Ended,English,2014-03-16,7.1,NBC
+191,Halt and Catch Fire,['Drama'],Ended,English,2014-06-01,8.2,AMC
+192,Hello Ladies,['Comedy'],Ended,English,2013-09-29,6.5,HBO
+193,Dads,['Comedy'],Ended,English,2013-09-17,5.1,FOX
+194,Hannibal,"['Drama', 'Crime', 'Horror']",Ended,English,2013-04-04,8.3,NBC
+195,Bates Motel,"['Drama', 'Horror', 'Thriller']",Ended,English,2013-03-18,7.9,A&E
+196,The Following,"['Drama', 'Crime', 'Thriller']",Ended,English,2013-01-21,7.0,FOX
+197,Da Vinci's Demons,"['Drama', 'Horror']",Ended,English,2013-04-12,8.0,Unknown
+198,The Fosters,"['Drama', 'Family', 'Romance']",Ended,English,2013-06-03,7.5,Freeform
+199,Mistresses,"['Drama', 'Romance']",Ended,English,2013-06-03,7.8,ABC
+200,The Tomorrow People,"['Action', 'Science-Fiction']",Ended,English,2013-10-09,7.3,The CW
+201,Devious Maids,"['Drama', 'Crime']",Ended,English,2013-06-23,7.6,Lifetime
+202,Almost Human,"['Drama', 'Crime', 'Science-Fiction']",Ended,English,2013-11-17,7.7,FOX
+203,The Carrie Diaries,"['Drama', 'Comedy', 'Romance']",Ended,English,2013-01-14,6.5,The CW
+204,Stargate SG-1,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1997-07-27,8.9,Syfy
+205,Graceland,"['Drama', 'Action', 'Crime']",Ended,English,2013-06-06,7.3,USA Network
+206,Stargate Atlantis,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2004-07-16,8.8,Syfy
+207,Stargate Universe,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2009-10-02,8.2,Syfy
+208,The Chair,[],Ended,English,2014-09-06,,STARZ
+209,Survivor's Remorse,"['Drama', 'Comedy', 'Sports']",Ended,English,2014-10-04,6.6,STARZ
+210,Doctor Who,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2005-03-26,8.3,BBC One
+211,666 Park Avenue,"['Drama', 'Mystery', 'Supernatural']",Ended,English,2012-09-30,6.6,ABC
+212,Alcatraz,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2012-01-16,7.0,FOX
+213,The Gates,"['Drama', 'Crime', 'Supernatural']",Ended,English,2010-06-20,7.2,ABC
+214,Kingdom,"['Drama', 'Family', 'Sports']",Ended,English,2014-10-08,8.0,Audience Network
+215,American Dad!,"['Comedy', 'Family']",Running,English,2005-02-06,7.4,FOX
+216,Rick and Morty,"['Comedy', 'Adventure', 'Science-Fiction']",Running,English,2013-12-02,8.8,Adult Swim
+217,Hostages,"['Drama', 'Thriller']",Ended,English,2013-09-23,6.4,CBS
+218,Being Human,"['Drama', 'Horror', 'Romance']",Ended,English,2011-01-17,7.5,Syfy
+219,Alphas,"['Drama', 'Science-Fiction', 'Supernatural']",Ended,English,2011-07-11,7.5,Syfy
+220,Crossing Lines,"['Drama', 'Action', 'Crime']",Ended,English,2013-06-23,7.6,TF1
+221,Rectify,"['Drama', 'Crime']",Ended,English,2013-04-22,8.0,SundanceTV
+222,Happyland,"['Drama', 'Comedy']",Ended,English,2014-09-30,7.0,MTV
+224,Twisted,"['Drama', 'Thriller', 'Mystery']",Ended,English,2013-03-19,7.3,Freeform
+225,Ravenswood,"['Drama', 'Horror']",Ended,English,2013-10-22,7.1,Freeform
+226,The Crazy Ones,['Comedy'],Ended,English,2013-09-26,7.1,CBS
+227,Mob City,"['Drama', 'Crime']",Ended,English,2013-12-04,7.3,TNT
+228,Last Resort,"['Drama', 'Action', 'War']",Ended,English,2012-09-27,7.3,ABC
+229,The Neighbors,"['Comedy', 'Science-Fiction']",Ended,English,2012-09-26,6.9,ABC
+230,Go On,['Comedy'],Ended,English,2012-08-08,7.2,NBC
+231,Vegas,['Drama'],Ended,English,2012-09-25,7.9,CBS
+232,The River,"['Drama', 'Horror', 'Supernatural']",Ended,English,2012-02-07,6.9,ABC
+233,Awake,"['Drama', 'Fantasy', 'Thriller']",Ended,English,2012-03-01,7.4,NBC
+234,Missing,"['Drama', 'Action', 'Thriller']",Ended,English,2012-03-15,6.9,ABC
+235,The New Normal,['Comedy'],Ended,English,2012-09-10,7.1,NBC
+236,GCB,"['Drama', 'Comedy', 'Romance']",Ended,English,2012-03-04,7.3,ABC
+237,Revolution,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2012-09-17,7.5,NBC
+238,Dallas,"['Drama', 'Family']",Ended,English,2012-06-13,6.5,TNT
+239,Anger Management,['Comedy'],Ended,English,2012-06-28,6.5,FX
+240,Cops,"['Action', 'Crime']",Running,English,1989-03-11,7.1,Unknown
+241,Benched,"['Comedy', 'Legal']",Ended,English,2014-10-28,7.2,USA Network
+242,The Great Fire,['Drama'],Ended,English,2014-10-16,7.0,ITV1
+243,Conan,['Comedy'],Ended,English,2010-11-08,7.7,TBS
+244,Strange Empire,"['Drama', 'Western']",Ended,English,2014-10-06,7.2,CBC
+245,Town of the Living Dead,[],Ended,English,2014-10-07,,Syfy
+246,Long Shadow,"['War', 'History']",Ended,English,2014-09-24,,BBC Two
+247,The Colbert Report,['Comedy'],Ended,English,2005-10-17,7.2,Comedy Central
+248,Transporter: The Series,"['Action', 'Adventure', 'Crime']",Ended,English,2013-01-04,7.3,RTL
+249,The Daily Show with Jon Stewart,['Comedy'],Ended,English,1999-01-11,8.0,Comedy Central
+250,Kirby Buckets,['Comedy'],Ended,English,2014-10-20,,Disney XD
+251,Downton Abbey,"['Drama', 'Family', 'Romance']",Ended,English,2010-09-26,8.8,ITV1
+252,Girl Meets World,"['Drama', 'Comedy', 'Family']",Ended,English,2014-06-27,7.7,Disney Channel
+253,Hell's Kitchen,['Food'],Running,English,2005-05-30,6.8,FOX
+254,World Series of Poker,['Sports'],Running,English,2006-08-22,7.8,Unknown
+255,Anthony Bourdain: Parts Unknown,"['Food', 'Travel']",Ended,English,2013-04-14,7.7,CNN
+256,Comic Book Men,['Comedy'],Ended,English,2012-02-12,7.4,AMC
+257,Key & Peele,['Comedy'],Ended,English,2012-01-31,7.5,Comedy Central
+258,Glue,['Drama'],Ended,English,2014-09-15,7.7,E4
+259,Southern Justice,['Crime'],Ended,English,2014-04-15,,National Geographic
+260,Tosh.0,['Comedy'],Ended,English,2009-06-04,6.2,Comedy Central
+261,The Soup,['Comedy'],Ended,English,2004-07-30,4.5,E!
+262,The Driver,"['Drama', 'Crime']",Ended,English,2014-09-23,6.9,BBC One
+263,Last Week Tonight with John Oliver,['Comedy'],Running,English,2014-04-27,7.8,HBO
+265,The Late Show with David Letterman,['Comedy'],Ended,English,1993-08-30,7.4,CBS
+266,Mount Pleasant,"['Drama', 'Comedy']",Ended,English,2011-08-24,,Sky Showcase
+267,Lovesick,"['Comedy', 'Romance']",Ended,English,2014-10-02,7.3,Unknown
+268,Package Deal,['Comedy'],Ended,English,2013-06-18,6.2,Citytv
+269,Peaky Blinders,"['Drama', 'Crime', 'History']",Ended,English,2013-09-12,8.5,BBC One
+270,The League,"['Comedy', 'Sports']",Ended,English,2009-10-29,7.6,FXX
+271,Saving Hope,"['Drama', 'Fantasy', 'Medical']",Ended,English,2012-06-07,7.8,CTV
+272,Talking Dead,[],To be determined,English,2011-10-17,6.2,AMC
+273,Black Dynamite,"['Comedy', 'Action']",Ended,English,2012-07-15,8.0,Adult Swim
+274,Bad Education,['Comedy'],To be determined,English,2012-08-14,6.5,Unknown
+275,Ali G: Rezurection,['Comedy'],Ended,English,2014-02-26,6.0,FXX
+276,New Tricks,"['Drama', 'Comedy', 'Crime']",Ended,English,2004-04-01,7.7,BBC One
+277,Brickleberry,['Comedy'],Ended,English,2012-09-25,7.7,Comedy Central
+278,Face Off,[],Ended,English,2011-01-26,8.0,Syfy
+279,Real Time with Bill Maher,[],Running,English,2003-02-21,5.4,HBO
+280,Franklin & Bash,"['Drama', 'Comedy', 'Legal']",Ended,English,2011-06-01,7.0,TNT
+281,Mock the Week,['Comedy'],Ended,English,2005-06-05,7.5,BBC Two
+282,Awkward.,"['Drama', 'Comedy', 'Romance']",Ended,English,2011-07-19,7.2,MTV
+283,Faking It,"['Comedy', 'Romance']",Ended,English,2014-04-22,7.5,MTV
+284,Mr. Selfridge,['Drama'],Ended,English,2013-01-06,7.7,ITV1
+285,"Signed, Sealed, Delivered","['Romance', 'Mystery']",To be determined,English,2013-10-12,7.8,Hallmark Mystery
+286,Happy Valley,"['Drama', 'Crime']",Ended,English,2014-04-29,8.0,BBC One
+287,Kroll Show,['Comedy'],Ended,English,2013-01-16,,Comedy Central
+288,American Idol,['Music'],Running,English,2002-06-11,5.2,ABC
+289,America's Got Talent,['Music'],Running,English,2006-06-21,5.7,NBC
+290,Adventure Time,"['Comedy', 'Adventure', 'Fantasy']",Ended,English,2008-12-07,7.8,Cartoon Network
+291,Motive,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-02-03,7.8,CTV
+292,The NEW Celebrity Apprentice,[],Ended,English,2008-01-03,4.5,NBC
+293,Newswipe,['Comedy'],Ended,English,2009-03-25,,BBC Four
+294,The Night Shift,"['Drama', 'Action', 'Medical']",Ended,English,2014-05-27,8.0,NBC
+295,Top Chef,['Food'],Running,English,2006-03-08,7.4,Bravo
+296,Top Gear,[],Ended,English,2010-11-21,5.3,History
+297,Undateable,"['Comedy', 'Romance']",Ended,English,2014-05-29,7.8,NBC
+298,Chasing Life,"['Drama', 'Romance', 'Medical']",Ended,English,2014-06-10,7.8,Freeform
+299,Power,"['Drama', 'Crime']",Ended,English,2014-06-07,7.9,STARZ
+300,Murder in the First,"['Drama', 'Crime', 'Mystery']",Ended,English,2014-06-09,7.8,TNT
+301,Hart of Dixie,"['Drama', 'Comedy', 'Romance']",Ended,English,2011-09-26,7.8,The CW
+302,Trailer Park Boys,"['Comedy', 'Crime']",Running,English,2001-04-22,7.6,Unknown
+303,Deadbeat,"['Comedy', 'Supernatural']",Ended,English,2014-04-09,6.7,Unknown
+304,The Venture Bros.,"['Comedy', 'Adventure']",Ended,English,2003-02-16,8.2,Adult Swim
+305,Black Mirror,"['Drama', 'Science-Fiction', 'Thriller']",To be determined,English,2011-12-04,8.4,Unknown
+306,Broadchurch,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-03-04,8.4,ITV1
+307,Bluestone 42,"['Drama', 'Comedy', 'War']",Ended,English,2013-03-05,7.1,BBC Three
+308,Matador,"['Drama', 'Action']",Ended,English,2014-07-15,6.9,El Rey Network
+309,Rogue,"['Action', 'Crime']",Ended,English,2013-04-03,7.6,Audience Network
+310,Married,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-07-17,5.1,FX
+311,Satisfaction,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-07-17,7.6,USA Network
+312,You're the Worst,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-07-17,7.7,FXX
+313,Plebs,['Comedy'],Ended,English,2013-03-25,7.3,ITV2
+314,VICE,"['Drama', 'Crime']",Ended,English,2013-04-05,7.6,Paramount+ with Showtime
+315,Archer,"['Comedy', 'Action', 'Espionage']",Ended,English,2009-09-17,8.3,FXX
+316,The Missing,"['Drama', 'Crime', 'Thriller']",Ended,English,2014-10-28,8.0,BBC One
+317,Vicious,['Comedy'],Ended,English,2013-04-29,8.0,ITV1
+318,Community,['Comedy'],Ended,English,2009-09-17,8.3,Unknown
+319,Cougar Town,['Comedy'],Ended,English,2009-09-23,7.4,TBS
+320,The Fall,"['Drama', 'Crime', 'Thriller']",Ended,English,2013-05-13,8.0,BBC Two
+321,Arrested Development,"['Comedy', 'Family']",Ended,English,2003-11-02,8.2,Unknown
+322,Hit the Floor,"['Drama', 'Romance', 'Sports']",Ended,English,2013-05-27,7.2,BET
+323,White Collar,"['Drama', 'Comedy', 'Crime']",Ended,English,2009-10-23,8.2,USA Network
+324,MasterChef,['Food'],To be determined,English,2010-07-27,6.8,FOX
+325,Being Mary Jane,"['Drama', 'Family']",Ended,English,2013-07-02,7.8,BET
+326,Undercover Boss,[],Ended,English,2010-02-07,6.1,CBS
+327,Inside Amy Schumer,['Comedy'],Ended,English,2013-04-30,5.6,Unknown
+328,Midsomer Murders,"['Drama', 'Crime', 'Mystery']",Running,English,1998-03-22,7.9,Unknown
+329,Shark Tank,[],Running,English,2009-08-09,6.8,ABC
+330,On the Menu,['Food'],Ended,English,2014-10-03,,TNT
+331,Deal With It,[],Ended,English,2013-07-17,,TBS
+332,Alpha House,"['Drama', 'Comedy']",Ended,English,2013-04-19,7.2,Unknown
+333,The Game,"['Drama', 'Comedy', 'Sports']",Ended,English,2006-10-01,,Unknown
+334,Drunk History,"['Comedy', 'History']",Ended,English,2013-07-09,6.4,Comedy Central
+335,Sherlock,"['Drama', 'Crime', 'Mystery']",Ended,English,2010-07-25,8.9,BBC One
+336,Marvel's Agent Carter,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2015-01-06,8.0,ABC
+337,Ramsay's Costa Del Nightmares,['Food'],Ended,English,2014-09-23,6.7,Channel 4
+338,Secrets and Lies,"['Drama', 'Crime', 'Thriller']",Ended,English,2015-03-01,7.4,ABC
+339,American Crime,"['Drama', 'Crime']",Ended,English,2015-03-05,7.8,ABC
+340,The Librarians,"['Action', 'Adventure', 'Supernatural']",Ended,English,2014-12-07,7.3,TNT
+341,Aquarius,"['Drama', 'Crime']",Ended,English,2015-05-28,7.1,NBC
+342,Louie,"['Drama', 'Comedy']",Ended,English,2010-06-29,7.9,FX
+343,Atlantis,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2013-09-28,7.0,BBC One
+344,Rizzoli & Isles,"['Drama', 'Crime']",Ended,English,2010-07-12,8.0,TNT
+345,Covert Affairs,"['Drama', 'Action', 'Crime']",Ended,English,2010-07-13,7.4,USA Network
+346,Hot in Cleveland,['Comedy'],Ended,English,2010-06-16,7.8,TV Land
+347,It's Always Sunny in Philadelphia,['Comedy'],Running,English,2005-08-04,8.1,FXX
+348,Melissa & Joey,"['Comedy', 'Family']",Ended,English,2010-08-17,7.6,Freeform
+349,The Wrong Mans,"['Comedy', 'Crime', 'Thriller']",Ended,English,2013-09-24,7.7,BBC Two
+350,Last Comic Standing,['Comedy'],Ended,English,2003-06-10,,NBC
+351,Baby Daddy,"['Comedy', 'Family']",Ended,English,2012-06-20,7.8,Freeform
+352,The Exes,['Comedy'],Ended,English,2011-11-30,7.2,TV Land
+353,Line of Duty,"['Drama', 'Crime', 'Thriller']",To be determined,English,2012-06-26,8.6,BBC One
+354,Ground Floor,['Comedy'],Ended,English,2013-11-14,7.5,TBS
+355,Mike & Molly,"['Comedy', 'Family']",Ended,English,2010-09-20,7.4,CBS
+356,Man Down,['Comedy'],Ended,English,2013-10-18,8.0,Channel 4
+357,Perception,"['Drama', 'Crime']",Ended,English,2012-07-09,7.8,TNT
+358,Spartacus: Gods of the Arena,"['Drama', 'Action', 'History']",Ended,English,2011-01-21,8.4,STARZ
+359,TripTank,['Comedy'],Ended,English,2014-04-02,6.4,Comedy Central
+360,Ripper Street,"['Drama', 'Crime', 'Mystery']",Ended,English,2012-12-30,8.1,BBC Two
+361,Saturday Night Live,"['Comedy', 'Music']",Running,English,1975-10-11,6.0,NBC
+362,Switched at Birth,"['Drama', 'Family']",Ended,English,2011-06-06,7.8,Freeform
+363,Late Night with Seth Meyers,['Comedy'],Running,English,2014-02-24,4.4,NBC
+364,Single Ladies,"['Drama', 'Romance']",Ended,English,2011-05-30,,BET Her
+365,The After,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2014-02-06,7.8,Unknown
+366,Sirens,['Comedy'],Ended,English,2014-03-06,7.7,USA Network
+367,Six Feet Under,"['Drama', 'Comedy']",Ended,English,2001-06-03,8.1,HBO
+368,Red Dwarf,"['Comedy', 'Science-Fiction']",Ended,English,1988-02-15,7.9,U&Dave
+369,Wizards vs Aliens,"['Fantasy', 'Science-Fiction']",Ended,English,2012-10-29,7.5,CBBC
+370,Workaholics,['Comedy'],Ended,English,2011-04-06,7.3,Comedy Central
+371,The Red Road,"['Drama', 'Crime', 'Family']",Ended,English,2014-02-27,7.3,SundanceTV
+372,See Dad Run,['Comedy'],Ended,English,2012-10-06,5.8,nick@nite
+373,Moone Boy,['Comedy'],Ended,English,2012-09-14,7.4,Sky Showcase
+374,Inside No. 9,"['Comedy', 'Thriller', 'Supernatural']",Ended,English,2014-02-05,8.0,BBC Two
+375,Broad City,['Comedy'],Ended,English,2014-01-22,8.0,Comedy Central
+376,Portlandia,['Comedy'],Ended,English,2011-01-21,6.9,IFC
+377,The Musketeers,"['Drama', 'Action', 'Adventure']",Ended,English,2014-01-19,8.0,BBC One
+378,Citizen Khan,"['Comedy', 'Family']",Ended,English,2012-08-27,6.7,BBC One
+379,Mythbusters,"['Adventure', 'Nature', 'DIY']",Ended,English,2003-01-23,8.0,Science
+380,Birds of a Feather,['Comedy'],Ended,English,1989-10-16,7.3,ITV1
+382,Aqua Teen Hunger Force,"['Comedy', 'Action', 'Adventure']",Ended,English,2000-12-30,7.6,Adult Swim
+383,Peep Show,['Comedy'],Ended,English,2003-09-19,8.0,Channel 4
+384,Major Crimes,"['Drama', 'Action', 'Crime']",Ended,English,2012-08-13,8.0,TNT
+385,Mad Men,['Drama'],Ended,English,2007-07-19,8.1,AMC
+386,Yonderland,"['Comedy', 'Fantasy']",Ended,English,2013-11-10,7.8,Sky Showcase
+387,Rookie Blue,"['Drama', 'Action', 'Crime']",Ended,English,2010-06-24,7.7,Global
+388,The Late Late Show with Craig Ferguson,['Comedy'],Ended,English,2005-01-03,6.9,CBS
+390,Last Call with Carson Daly,[],Ended,English,2002-01-08,,NBC
+391,Life Is Toff,[],Ended,English,2014-10-28,,BBC Three
+392,Hunted,"['Drama', 'Action', 'Thriller']",Ended,English,2012-10-04,7.9,BBC One
+393,Video Game High School,"['Comedy', 'Action', 'Science-Fiction']",Ended,English,2012-05-11,7.5,Unknown
+394,Call the Midwife,"['Drama', 'Medical']",Running,English,2012-01-15,8.0,BBC One
+395,Longmire,"['Drama', 'Thriller', 'Western']",Ended,English,2012-06-03,8.3,Unknown
+396,Gravity Falls,"['Adventure', 'Mystery', 'Supernatural']",Ended,English,2012-06-15,8.9,Disney XD
+397,Don't Trust the B---- in Apartment 23,['Comedy'],Ended,English,2012-04-11,7.5,ABC
+398,Duck Dynasty,"['Comedy', 'Adventure']",Ended,English,2012-03-21,5.8,A&E
+399,The Client List,"['Drama', 'Romance']",Ended,English,2012-04-08,6.5,Lifetime
+400,Copper,"['Drama', 'Crime']",Ended,English,2012-08-19,7.7,BBC America
+401,Smash,['Drama'],Ended,English,2012-02-06,7.8,NBC
+402,A Young Doctor's Notebook,"['Drama', 'Comedy']",Ended,English,2012-12-06,7.5,Sky Arts
+403,Touch,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2012-01-25,7.5,FOX
+404,Magic City,"['Drama', 'Crime', 'Mystery']",Ended,English,2012-03-30,7.9,STARZ
+405,Derek,"['Drama', 'Comedy']",Ended,English,2012-04-12,8.0,Channel 4
+406,Men at Work,"['Drama', 'Comedy']",Ended,English,2012-05-24,6.9,TBS
+407,Mortal Kombat: Legacy,"['Action', 'Adventure', 'Fantasy']",Ended,English,2011-04-12,7.4,Unknown
+408,Jane by Design,"['Drama', 'Comedy']",Ended,English,2012-01-03,7.8,Freeform
+409,Invader ZIM,['Children'],Ended,English,2001-03-30,7.8,Nickelodeon
+410,Rival Survival,[],Ended,English,,,Discovery
+411,The Cape,"['Drama', 'Crime', 'Supernatural']",Ended,English,2011-01-09,6.5,NBC
+412,Fairly Legal,['Drama'],Ended,English,2011-01-20,7.8,USA Network
+413,Whitney,"['Comedy', 'Romance']",Ended,English,2011-09-22,7.2,NBC
+414,Duckman: Private Dick/Family Man,"['Comedy', 'Crime']",Ended,English,1994-03-05,7.4,USA Network
+415,Olive Kitteridge,['Drama'],Ended,English,2014-11-02,8.0,HBO
+416,Are You the One?,['Romance'],Ended,English,2014-01-21,5.5,Unknown
+417,MasterChef Junior,"['Children', 'Food']",To be determined,English,2013-09-27,6.9,FOX
+418,Chrisley Knows Best,"['Comedy', 'Family']",Ended,English,2014-03-11,5.4,USA Network
+419,Snooki & JWoww,[],Ended,English,2012-06-21,5.3,MTV
+420,Slednecks,[],Ended,English,2014-10-30,,MTV
+421,Rugrats,"['Comedy', 'Children']",Ended,English,1991-08-11,7.4,Nickelodeon
+422,A Gifted Man,"['Drama', 'Fantasy', 'Medical']",Ended,English,2011-09-23,7.7,CBS
+423,Life's Too Short,['Comedy'],Ended,English,2011-11-10,7.3,BBC Two
+424,Kourtney & Khloe Take the Hamptons,[],Ended,English,2014-11-02,,E!
+425,The Passing Bells,"['Drama', 'War', 'History']",Ended,English,2014-11-03,7.0,BBC One
+426,The People Remember,['History'],Ended,English,2014-11-03,,BBC One
+427,Buffy the Vampire Slayer,"['Drama', 'Action', 'Supernatural']",Ended,English,1997-03-10,8.4,UPN
+428,Angel,"['Drama', 'Action', 'Supernatural']",Ended,English,1999-10-05,8.1,The WB
+429,Farscape,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1999-03-19,8.6,Syfy
+430,The X-Files,"['Drama', 'Crime', 'Science-Fiction']",Ended,English,1993-09-10,8.6,FOX
+431,Friends,"['Comedy', 'Romance']",Ended,English,1994-09-22,8.5,NBC
+432,Dollhouse,"['Action', 'Science-Fiction']",Ended,English,2009-02-13,7.7,FOX
+433,Caprica,"['Drama', 'Science-Fiction']",Ended,English,2010-01-22,7.5,Syfy
+434,Warehouse 13,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2009-07-07,8.3,Syfy
+435,Smallville,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2001-10-16,8.1,The CW
+436,Dead Like Me,"['Drama', 'Comedy', 'Supernatural']",Ended,English,2003-06-27,8.1,Paramount+ with Showtime
+437,Xena: Warrior Princess,"['Action', 'Adventure', 'Fantasy']",Ended,English,1995-09-04,7.7,Syndication
+438,The Adventures of Sinbad,"['Action', 'Adventure']",Ended,English,1996-09-28,6.0,Syndication
+439,Wolverine and the X-Men,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2008-09-08,7.7,Nicktoons
+440,Everwood,"['Drama', 'Family', 'Romance']",Ended,English,2002-09-16,7.9,The WB
+443,Once a Thief,"['Comedy', 'Action', 'Thriller']",Ended,English,1997-09-15,7.5,CTV
+444,XIII: The Series,"['Action', 'Adventure']",Ended,English,2011-04-20,7.8,Showcase
+445,Metal Hurlant Chronicles,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2012-10-27,6.4,France 4
+446,Defying Gravity,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2009-08-02,7.8,CTV
+447,Charlie's Angels,"['Action', 'Crime']",Ended,English,2011-09-22,7.7,ABC
+448,The Universe,"['Adventure', 'Family', 'Science-Fiction']",Ended,English,2007-05-29,7.6,Vice TV
+449,True Justice,"['Drama', 'Action', 'Crime']",Ended,English,2012-03-30,6.3,REELZ
+450,Wolf Lake,"['Drama', 'Crime', 'Supernatural']",Ended,English,2001-09-19,7.8,UPN
+451,Knight Rider,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2008-02-17,6.8,NBC
+452,The Deep,['Drama'],Ended,English,2010-08-03,7.5,BBC One
+453,Tales from the Crypt,"['Comedy', 'Fantasy', 'Horror']",Ended,English,1989-06-10,8.0,HBO
+454,Pacific Blue,"['Drama', 'Action', 'Crime']",Ended,English,1996-03-02,6.5,USA Network
+455,Blade: The Series,"['Action', 'Supernatural']",Ended,English,2006-06-28,6.8,Paramount Network
+456,Moonlight,"['Drama', 'Horror', 'Romance']",Ended,English,2007-09-28,7.9,CBS
+457,The Event,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2010-09-20,7.3,NBC
+458,FlashForward,"['Drama', 'Crime', 'Science-Fiction']",Ended,English,2009-09-24,7.7,ABC
+459,Harper's Island,"['Horror', 'Thriller', 'Mystery']",Ended,English,2009-04-09,7.6,CBS
+460,Adventure Inc.,"['Action', 'Adventure']",Ended,English,2002-09-30,7.3,Syndication
+461,Legend of the Seeker,"['Action', 'Adventure', 'Fantasy']",Ended,English,2008-11-01,7.9,Syndication
+462,TekWar,"['Action', 'Science-Fiction']",Ended,English,1994-12-22,7.4,Syndication
+463,Dark Skies,"['Drama', 'Science-Fiction']",Ended,English,1996-09-21,7.8,NBC
+464,The Pacific,"['Drama', 'Action', 'War']",Ended,English,2010-03-14,8.3,HBO
+465,Band of Brothers,"['Drama', 'Action', 'War']",Ended,English,2001-09-09,9.0,HBO
+466,Columbo,"['Drama', 'Crime', 'Mystery']",Ended,English,1968-02-20,8.0,ABC
+467,Blood Ties,"['Fantasy', 'Horror', 'Mystery']",Ended,English,2007-03-11,7.9,Lifetime
+468,"Walker, Texas Ranger","['Drama', 'Action', 'Crime']",Ended,English,1993-04-21,7.0,CBS
+469,ReGenesis,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2004-10-24,7.9,Crave
+470,The Prisoner,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,1967-10-01,8.0,ITV1
+471,The Prisoner,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2009-11-15,7.0,AMC
+472,X-Men,"['Children', 'Science-Fiction']",Ended,English,1992-10-31,8.1,FOX
+473,Veronica Mars,"['Drama', 'Crime', 'Mystery']",Ended,English,2004-09-22,8.5,Unknown
+474,Charlie's Angels,"['Action', 'Adventure']",Ended,English,1976-09-22,7.7,ABC
+475,Babylon 5,"['Drama', 'Action', 'Science-Fiction']",Ended,English,1993-02-22,8.4,TNT
+476,Dead Set,"['Comedy', 'Fantasy', 'Horror']",Ended,English,2008-10-27,7.3,E4
+477,Son of the Beach,['Comedy'],Ended,English,2000-03-14,,FX
+478,Terminator: The Sarah Connor Chronicles,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2008-01-13,8.3,FOX
+479,Witchblade,"['Action', 'Crime', 'Supernatural']",Ended,English,2000-08-27,7.7,TNT
+480,Birds of Prey,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2002-10-09,7.9,The WB
+481,The Batman,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2004-09-11,7.7,The CW
+482,Masters of Horror,['Horror'],Ended,English,2005-10-28,7.5,Paramount+ with Showtime
+483,The 4400,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2004-07-11,7.7,USA Network
+484,Painkiller Jane,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2007-04-13,7.2,Syfy
+485,Day Break,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2006-11-15,7.8,ABC
+486,Andromeda,"['Action', 'Science-Fiction']",Ended,English,2000-10-02,7.7,Syfy
+487,Harsh Realm,"['Drama', 'Action', 'Science-Fiction']",Ended,English,1999-10-08,7.0,FOX
+488,Naruto: Shippūden,"['Action', 'Adventure', 'Anime', 'Fantasy']",Ended,Japanese,2007-02-15,8.5,TV Tokyo
+489,Sonic Boom,"['Comedy', 'Action', 'Children']",Ended,English,2014-11-08,4.6,Boomerang
+490,Star Trek,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1966-09-08,8.4,NBC
+491,Star Trek: The Next Generation,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1987-09-28,8.7,Syndication
+492,Star Trek: Voyager,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1995-01-16,8.3,UPN
+493,Star Trek: Deep Space Nine,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1993-01-03,8.4,Syndication
+494,V,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2009-11-03,7.4,ABC
+495,Naruto,"['Action', 'Adventure', 'Anime', 'Fantasy']",Ended,Japanese,2002-10-03,8.0,TV Tokyo
+496,100 Things to Do Before High School,"['Comedy', 'Children']",Ended,English,2014-11-11,6.5,Nickelodeon
+497,Strip the Cosmos,"['Mystery', 'Nature', 'History']",Ended,English,2014-11-12,7.2,Science
+498,Dogs of War,['War'],Ended,English,2014-11-11,,A&E
+499,Married... with Children,"['Comedy', 'Family', 'Adult']",Ended,English,1987-04-05,8.2,FOX
+500,Mutant X,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2001-10-06,7.2,Syndication
+501,Northern Exposure,"['Drama', 'Comedy']",Ended,English,1990-07-12,8.2,CBS
+502,The Lost World,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1999-04-03,7.9,Syndication
+503,The Lost Room,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2006-12-11,8.0,Syfy
+504,Batman Beyond,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1999-01-10,8.0,The WB
+505,Justice League Unlimited,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2004-07-31,7.9,Cartoon Network
+506,Charmed,"['Drama', 'Romance', 'Supernatural']",Ended,English,1998-10-07,8.1,The WB
+507,Angels in America,"['Drama', 'Fantasy']",Ended,English,2003-12-07,7.9,HBO
+508,The Grid,"['Drama', 'Thriller']",Ended,English,2004-07-19,7.9,TNT
+509,Mr. Sunshine,"['Comedy', 'Sports']",Ended,English,2011-02-09,6.9,ABC
+510,Breaking In,"['Comedy', 'Action', 'Crime']",Ended,English,2011-04-06,7.4,FOX
+511,The Chicago Code,['Drama'],Ended,English,2011-02-07,7.7,FOX
+512,Up All Night,['Comedy'],Ended,English,2011-09-14,6.5,NBC
+513,The Nine Lives of Chloe King,"['Drama', 'Action', 'Supernatural']",Ended,English,2011-06-14,6.8,Freeform
+514,Jessie,['Comedy'],Ended,English,2011-09-30,7.3,Disney Channel
+515,The Borgias,"['Drama', 'Romance', 'History']",Ended,English,2011-04-03,7.9,Paramount+ with Showtime
+516,Terra Nova,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2011-09-26,7.6,FOX
+517,Psych,"['Drama', 'Comedy', 'Crime']",Ended,English,2006-07-07,8.1,USA Network
+518,Bad Girls Club,[],Ended,English,2006-12-05,,Oxygen True Crime
+519,Preachers of L.A.,[],Ended,English,2013-10-09,,Oxygen True Crime
+520,Lie to Me,"['Drama', 'Crime', 'Mystery']",Ended,English,2009-01-21,8.0,FOX
+521,The Real Housewives of New Jersey,[],Running,English,2009-05-12,5.6,Bravo
+522,Top Gear,[],Ended,English,2002-10-20,7.3,BBC One
+523,The West Wing,['Drama'],Ended,English,1999-09-22,8.7,NBC
+524,Moonshiners,[],Running,English,2011-12-06,6.1,Discovery
+525,Gilmore Girls,"['Drama', 'Comedy', 'Romance']",Ended,English,2000-10-05,8.1,The CW
+526,The Office,['Comedy'],Ended,English,2005-03-24,8.5,NBC
+527,The Sopranos,"['Drama', 'Crime']",Ended,English,1999-01-10,8.9,HBO
+528,The Flash,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1990-09-20,7.6,CBS
+529,Cupcake Wars,['Food'],Ended,English,2010-06-13,,Cooking Channel
+530,Seinfeld,['Comedy'],Ended,English,1989-07-05,8.3,NBC
+531,Breaking Amish,[],Ended,English,2012-09-09,,TLC
+532,Scrubs,"['Drama', 'Comedy', 'Medical']",Ended,English,2001-10-02,8.4,ABC
+533,Instant Mom,"['Comedy', 'Family']",Ended,English,2013-09-29,6.8,TV Land
+534,Pawn Stars,[],Running,English,2009-07-19,6.8,History
+535,Anthony Bourdain: No Reservations,"['Food', 'Travel']",Ended,English,2005-07-25,7.8,Travel Channel
+536,Whose Line Is It Anyway?,"['Comedy', 'Family']",To be determined,English,1998-08-05,7.7,The CW
+537,30 Rock,['Comedy'],Ended,English,2006-10-11,8.0,NBC
+538,Futurama,"['Comedy', 'Adventure', 'Science-Fiction']",Running,English,1999-03-28,8.6,Unknown
+539,The IT Crowd,['Comedy'],Ended,English,2006-02-03,8.7,Channel 4
+540,Frasier,['Comedy'],Ended,English,1993-09-16,8.0,NBC
+541,Prison Break,"['Drama', 'Crime', 'Thriller']",Ended,English,2005-08-29,8.2,FOX
+542,Eureka,"['Drama', 'Comedy', 'Science-Fiction']",Ended,English,2006-07-18,8.5,Syfy
+543,Monk,"['Drama', 'Crime', 'Mystery']",Ended,English,2002-07-12,8.0,USA Network
+544,Home Improvement,"['Comedy', 'Family']",Ended,English,1991-09-17,7.2,ABC
+545,Halo: Nightfall,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2014-11-11,6.2,Unknown
+546,Babylon,"['Drama', 'Comedy', 'Crime']",Ended,English,2014-02-09,7.8,Channel 4
+547,ER,"['Drama', 'Medical']",Ended,English,1994-09-19,8.0,NBC
+548,Skins,"['Drama', 'Comedy']",Ended,English,2007-01-25,7.9,E4
+549,Will & Grace,['Comedy'],Ended,English,1998-09-21,7.3,NBC
+550,Desperate Housewives,"['Drama', 'Mystery']",Ended,English,2004-10-03,7.6,ABC
+551,Curb Your Enthusiasm,['Comedy'],Ended,English,2000-10-15,7.9,HBO
+552,The King of Queens,"['Comedy', 'Family']",Ended,English,1998-09-21,7.3,CBS
+553,Cheers,['Comedy'],Ended,English,1982-09-30,8.0,NBC
+554,Dark Angel,"['Action', 'Science-Fiction']",Ended,English,2000-10-03,8.1,FOX
+555,Avatar: The Last Airbender,"['Action', 'Adventure', 'Fantasy']",Ended,English,2005-02-21,9.0,Nickelodeon
+556,Wilfred,"['Drama', 'Comedy', 'Mystery']",Ended,English,2011-06-23,7.6,FXX
+557,Alias,"['Drama', 'Action', 'Espionage']",Ended,English,2001-09-30,8.0,ABC
+558,Persons Unknown,"['Drama', 'Thriller', 'Mystery']",Ended,English,2010-06-07,7.2,NBC
+559,Entourage,"['Drama', 'Comedy']",Ended,English,2004-07-18,7.9,HBO
+560,One Tree Hill,['Drama'],Ended,English,2003-09-23,7.8,The CW
+561,La Femme Nikita,"['Drama', 'Action', 'Thriller']",Ended,English,1997-01-13,7.8,USA Network
+562,Law & Order,"['Drama', 'Crime', 'Legal']",Running,English,1990-09-13,7.4,NBC
+563,Star Wars: The Clone Wars,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2008-10-03,8.4,Unknown
+564,Nip/Tuck,"['Drama', 'Medical']",Ended,English,2003-07-22,7.8,FX
+565,Deadwood,"['Drama', 'Crime', 'Western']",Ended,English,2004-03-21,8.7,HBO
+566,Ghost Whisperer,"['Drama', 'Fantasy']",Ended,English,2005-09-23,7.7,CBS
+567,Gossip Girl,"['Drama', 'Romance']",Ended,English,2007-09-19,7.3,The CW
+568,Malcolm in the Middle,['Comedy'],Running,English,2000-01-09,7.8,Unknown
+569,Dharma & Greg,"['Comedy', 'Family', 'Romance']",Ended,English,1997-09-24,7.4,ABC
+570,NYPD Blue,"['Drama', 'Crime']",Ended,English,1993-09-21,7.9,ABC
+571,The Glades,"['Drama', 'Action', 'Crime']",Ended,English,2010-07-11,7.9,A&E
+572,American Pickers,"['Travel', 'History']",Running,English,2010-01-18,7.5,History
+573,Everybody Loves Raymond,"['Comedy', 'Family']",Ended,English,1996-09-13,6.8,CBS
+574,Happy Endings,['Comedy'],Ended,English,2011-04-13,7.3,ABC
+575,Keeping Up with the Kardashians,['Drama'],Ended,English,2007-10-14,3.1,E!
+576,CSI: Miami,"['Drama', 'Crime']",Ended,English,2002-09-23,7.6,CBS
+577,Fawlty Towers,['Comedy'],Ended,English,1975-09-19,8.4,BBC Two
+578,90210,"['Drama', 'Romance']",Ended,English,2008-09-02,6.4,The CW
+579,Harry's Law,"['Drama', 'Legal']",Ended,English,2011-01-17,7.4,NBC
+580,Raising Hope,"['Comedy', 'Family']",Ended,English,2010-09-21,8.0,FOX
+581,JAG,"['Drama', 'Crime', 'Legal']",Ended,English,1995-09-23,7.5,CBS
+582,The Fresh Prince of Bel-Air,"['Comedy', 'Family']",Ended,English,1990-09-10,7.9,NBC
+583,Sliders,"['Adventure', 'Fantasy', 'Science-Fiction']",Ended,English,1995-03-22,7.8,Syfy
+584,Las Vegas,"['Drama', 'Crime']",Ended,English,2003-09-22,7.6,NBC
+585,Ghost Hunters,['Supernatural'],To be determined,English,2004-10-06,5.9,Travel Channel
+586,Breakout Kings,"['Drama', 'Action', 'Crime']",Ended,English,2011-03-06,7.4,A&E
+587,That '70s Show,['Comedy'],Ended,English,1998-08-23,8.0,FOX
+588,NTSF:SD:SUV,"['Comedy', 'Espionage']",Ended,English,2011-07-22,6.9,Adult Swim
+589,Bad Teacher,['Comedy'],Ended,English,2014-04-24,5.9,CBS
+590,Pokémon,"['Adventure', 'Anime', 'Fantasy']",Running,Japanese,1997-04-01,7.9,TV Tokyo
+591,Eat: The Story of Food,['Food'],Ended,English,2014-11-21,,National Geographic
+592,"Dr. Oakley, Yukon Vet",[],Running,English,2014-04-12,8.0,National Geographic Wild
+593,Murdoch Mysteries,"['Drama', 'Crime', 'Mystery']",Running,English,2008-01-24,8.0,Unknown
+594,Henry Danger,"['Comedy', 'Family', 'Science-Fiction']",Ended,English,2014-07-26,6.7,Nickelodeon
+595,The Thundermans,"['Comedy', 'Family', 'Science-Fiction']",Ended,English,2013-10-14,6.6,Nickelodeon
+597,The Real Housewives of Atlanta,[],Running,English,2008-10-07,4.4,Bravo
+598,Boston Legal,"['Drama', 'Comedy', 'Legal']",Ended,English,2004-10-03,8.0,ABC
+599,Hair Jacked,[],Ended,English,2014-10-27,,truTV
+600,Crowd Control,[],Ended,English,2014-11-24,,National Geographic
+601,Fake Off,[],Ended,English,2014-10-27,,truTV
+602,Euros of Hollywood,[],Ended,English,2014-11-03,,Bravo
+603,Godfather of Pittsburgh,[],Ended,English,2014-11-10,,A&E
+604,Booze Traveler,"['Food', 'Travel']",Ended,English,2014-11-24,,Travel Channel
+605,Eric Greenspan is Hungry,"['Food', 'Travel']",Ended,English,2014-11-24,,National Geographic
+607,Air Warriors,"['Drama', 'Action', 'War']",Ended,English,2014-11-09,6.8,Smithsonian Channel
+609,The Astronaut Wives Club,"['Drama', 'History']",Ended,English,2015-06-18,7.1,ABC
+610,Galavant,"['Comedy', 'Fantasy', 'Music']",Ended,English,2015-01-04,7.9,ABC
+611,Wake Up Call,['Drama'],Ended,English,2014-12-12,,TNT
+612,Expedition Unknown,"['Adventure', 'Mystery', 'History']",Running,English,2015-01-08,7.7,Discovery
+613,Eye Candy,"['Drama', 'Crime', 'Thriller']",Ended,English,2015-01-12,6.6,MTV
+614,12 Monkeys,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2015-01-16,7.7,Syfy
+615,Sons of Liberty,"['Drama', 'Action', 'History']",Ended,English,2015-01-25,7.9,History
+616,Street Art Throwdown,[],Ended,English,2015-02-03,,Oxygen True Crime
+617,Allegiance,"['Drama', 'Crime', 'Thriller']",Ended,English,2015-02-05,7.0,NBC
+618,Better Call Saul,"['Drama', 'Crime', 'Legal']",Ended,English,2015-02-08,8.6,AMC
+619,Outlaw Country,"['Drama', 'Crime']",Ended,English,2015-02-24,,NewsNation
+620,The Last Man on Earth,"['Comedy', 'Science-Fiction']",Ended,English,2015-03-01,7.0,FOX
+621,Backstrom,"['Drama', 'Comedy', 'Crime']",Ended,English,2015-01-22,7.8,FOX
+622,Wrestling with Death,[],Ended,English,2015-01-13,,NewsNation
+623,Younger,"['Comedy', 'Romance']",Ended,English,2015-03-31,7.3,Unknown
+624,Hindsight,"['Drama', 'Comedy', 'Science-Fiction']",Ended,English,2015-01-07,6.8,VH1
+625,Polka Kings,[],Ended,English,2015-04-11,,REELZ
+626,A.D. The Bible Continues,"['Drama', 'Adventure']",Ended,English,2015-04-05,6.1,NBC
+627,Dig,"['Drama', 'Thriller', 'Mystery']",Ended,English,2015-03-05,7.3,USA Network
+628,Rock This Boat: New Kids on the Block,[],Ended,English,2015-01-14,,Pop
+629,Kitchen Inferno,['Food'],Ended,English,2014-11-05,,Food Network
+630,Murder Book,['Crime'],Ended,English,2014-12-02,,Investigation Discovery
+631,My Strange Criminal Addiction,['Crime'],Ended,English,2014-12-01,,Investigation Discovery
+632,Momsters: When Moms Go Bad,[],Ended,English,2014-11-28,,Investigation Discovery
+633,Food Truck Face Off,[],Ended,English,2014-09-28,,Food Network
+634,Love the Way You Lie,"['Drama', 'Crime']",Ended,English,2014-11-12,,Investigation Discovery
+635,Ascension,"['Drama', 'Science-Fiction']",Ended,English,2014-12-15,7.7,Syfy
+636,The Pioneers,[],Ended,English,2014-12-09,,National Geographic
+637,Girlfriends' Guide to Divorce,"['Drama', 'Comedy', 'Romance']",Ended,English,2014-12-02,7.5,Bravo
+638,Sacred Journeys with Bruce Feiler,[],Ended,English,2014-12-16,,PBS
+640,Hitler the Junkie,"['Drama', 'War']",Ended,English,2014-12-14,,National Geographic
+641,Biblical Conspiracies,['History'],Ended,English,2014-12-14,,Science
+643,Amish Renogades,"['Travel', 'DIY']",Ended,English,2014-11-22,,Magnolia Network
+644,The Carbonaro Effect,['Comedy'],Ended,English,2014-05-15,7.6,truTV
+645,Barmageddon,[],Ended,English,2014-10-29,,truTV
+646,My Crazy Love,['Romance'],Ended,English,2014-10-28,,Oxygen True Crime
+647,Friends of the People,['Comedy'],Ended,English,2014-10-28,,truTV
+648,Bye Felicia!,[],Ended,English,2014-12-09,,VH1
+649,Nail'd It!,[],Ended,English,2014-10-07,,Oxygen True Crime
+650,The Red Tent,['Drama'],Ended,English,2014-12-07,6.0,Lifetime
+651,Risking It All,[],Ended,English,2014-11-18,,TLC
+652,The Sisterhood: Becoming Nuns,[],Ended,English,2014-11-25,,Lifetime
+653,Lucha Underground,[],Ended,English,2014-10-29,7.9,El Rey Network
+654,Country Buck$,[],Ended,English,2014-11-19,,A&E
+655,Ally McBeal,"['Drama', 'Comedy', 'Legal']",Ended,English,1997-09-08,7.3,FOX
+656,Spin City,['Comedy'],Ended,English,1996-09-17,7.7,ABC
+657,Spooks,"['Drama', 'Thriller', 'Espionage']",Ended,English,2002-05-13,8.0,BBC One
+658,Crossbones,"['Drama', 'Action', 'Adventure']",Ended,English,2014-05-30,6.9,NBC
+659,Torchwood,"['Drama', 'Science-Fiction']",Ended,English,2006-10-22,8.1,STARZ
+660,Joey,"['Comedy', 'Romance']",Ended,English,2004-09-09,6.7,NBC
+661,The Great Christmas Light Fight,[],Running,English,2013-12-09,7.2,ABC
+662,Leverage,"['Drama', 'Action', 'Crime']",Ended,English,2008-12-07,8.1,TNT
+663,The Shield,"['Drama', 'Crime']",Ended,English,2002-03-12,8.6,FX
+664,Make It or Break It,"['Drama', 'Comedy', 'Sports']",Ended,English,2009-06-22,6.4,Freeform
+665,M*A*S*H,"['Comedy', 'War', 'Medical']",Ended,English,1972-09-17,8.4,CBS
+666,Drop Dead Diva,"['Drama', 'Comedy']",Ended,English,2009-07-12,7.8,Lifetime
+667,Burn Notice,"['Drama', 'Action', 'Crime']",Ended,English,2007-06-28,8.0,USA Network
+668,Teenage Mutant Ninja Turtles,"['Comedy', 'Action', 'Science-Fiction']",Ended,English,2012-09-28,6.7,Nicktoons
+669,In the Flesh,"['Drama', 'Horror', 'Supernatural']",Ended,English,2013-03-17,7.0,BBC Three
+670,Luther,"['Drama', 'Crime', 'Thriller']",Ended,English,2010-05-04,8.4,BBC One
+671,The Avengers: Earth's Mightiest Heroes!,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2010-09-22,8.0,Disney XD
+672,Phineas and Ferb,"['Comedy', 'Children']",Running,English,2007-08-17,7.2,Unknown
+673,Roswell,"['Drama', 'Romance', 'Science-Fiction']",Ended,English,1999-10-06,7.7,UPN
+674,Southland,"['Drama', 'Crime', 'Thriller']",Ended,English,2009-04-09,8.0,FOX
+675,Ancient Aliens,[],Running,English,2009-03-08,6.5,History
+676,Sex and the City,"['Drama', 'Comedy', 'Romance']",Ended,English,1998-06-06,7.0,HBO
+677,Rome,"['Drama', 'Action', 'Adventure']",Ended,English,2005-08-28,8.4,HBO
+678,My Name Is Earl,['Comedy'],Ended,English,2005-09-20,7.8,NBC
+679,Damages,"['Drama', 'Legal']",Ended,English,2007-07-24,7.8,Audience Network
+680,Airwolf,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1984-01-22,7.2,USA Network
+681,The Pretender,"['Drama', 'Adventure', 'Mystery']",Ended,English,1996-09-19,7.2,NBC
+682,Numb3rs,"['Drama', 'Action', 'Crime']",Ended,English,2005-01-23,7.9,CBS
+683,Boy Meets World,"['Drama', 'Comedy', 'Family']",Ended,English,1993-09-24,7.0,ABC
+684,Necessary Roughness,"['Drama', 'Comedy']",Ended,English,2011-06-29,7.1,USA Network
+685,Dance Moms,"['Drama', 'Family', 'Music']",Running,English,2011-07-13,6.0,Lifetime
+686,Robot Chicken,"['Comedy', 'Science-Fiction']",To be determined,English,2005-02-20,7.6,Adult Swim
+687,Project Runway,[],Running,English,2004-12-01,6.9,Freeform
+688,Manhattan,['Drama'],Ended,English,2014-07-27,7.9,NewsNation
+689,Young Justice,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2010-11-26,8.0,Unknown
+690,Roseanne,"['Comedy', 'Family']",Ended,English,1988-10-18,5.9,ABC
+691,Daniel Tiger's Neighborhood,"['Comedy', 'Children', 'Fantasy']",Running,English,2012-09-03,3.8,PBS Kids
+692,Everybody Hates Chris,['Comedy'],Ended,English,2005-09-22,7.8,The CW
+693,Jeeves & Wooster,['Comedy'],Ended,English,1990-04-22,8.0,ITV1
+694,Monty Python's Flying Circus,['Comedy'],Ended,English,1969-10-05,8.0,BBC One
+695,Durarara!!,"['Drama', 'Action', 'Anime', 'Fantasy']",Ended,Japanese,2010-01-08,6.5,MBS
+696,The X Factor,['Music'],Ended,English,2004-09-04,6.1,ITV1
+697,The Critic,['Comedy'],Ended,English,1994-01-26,6.8,FOX
+698,Peg + Cat,['Children'],Ended,English,2013-10-07,6.2,PBS
+699,Play for Today,"['Drama', 'Science-Fiction']",Ended,English,1970-10-15,,BBC One
+700,Marco Polo,"['Drama', 'Action', 'Adventure']",Ended,English,2014-12-12,8.0,Unknown
+701,Dancing on the Edge,['Drama'],Ended,English,2013-02-04,7.4,BBC Two
+702,Gold Rush,"['Action', 'Adventure', 'Nature']",Running,English,2010-12-03,7.9,Discovery
+703,QI,['Comedy'],Running,English,2003-09-11,8.1,Unknown
+704,Shaun the Sheep,"['Comedy', 'Children']",To be determined,English,2007-03-05,7.8,Unknown
+705,Fast N' Loud,[],Ended,English,2012-06-06,7.8,Discovery
+706,Teen Titans Go!,"['Comedy', 'Action', 'Science-Fiction']",Running,English,2013-04-23,7.2,Cartoon Network
+707,Sofia the First,"['Adventure', 'Children', 'Fantasy']",Ended,English,2013-01-11,6.4,Disney Channel
+708,Lilyhammer,"['Drama', 'Comedy', 'Crime']",Ended,English,2012-01-25,7.8,NRK1
+709,An Idiot Abroad,"['Comedy', 'Adventure', 'Travel']",Ended,English,2010-09-23,7.5,Sky Showcase
+710,Mickey Mouse Clubhouse,"['Comedy', 'Children']",Ended,English,2006-05-06,6.9,Disney Channel
+711,Who's the Boss?,"['Comedy', 'Family']",Ended,English,1984-09-20,7.6,ABC
+712,The Tudors,"['Drama', 'History']",Ended,English,2007-04-01,7.9,Paramount+ with Showtime
+713,SpongeBob SquarePants,"['Comedy', 'Adventure', 'Fantasy']",Running,English,1999-05-01,8.1,Nickelodeon
+714,Star Trek: Enterprise,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2001-09-26,8.2,UPN
+716,Spartacus,"['Drama', 'Action', 'History']",Ended,English,2010-01-22,8.5,STARZ
+717,Quantum Leap,"['Drama', 'Action', 'Science-Fiction']",Ended,English,1989-03-26,8.0,NBC
+718,The Tonight Show Starring Jimmy Fallon,['Comedy'],Running,English,2014-02-17,4.4,NBC
+719,Tanked,[],Ended,English,2011-08-07,7.5,Animal Planet
+720,Rules of Engagement,"['Comedy', 'Romance']",Ended,English,2007-02-05,7.9,CBS
+721,Pawnography,[],Ended,English,2014-07-10,,History
+722,The Golden Girls,"['Drama', 'Comedy']",Ended,English,1985-09-14,8.1,NBC
+725,Where on Earth is Carmen Sandiego?,"['Action', 'Adventure']",Ended,English,1994-02-05,6.4,FOX
+726,WWII in HD,"['War', 'History']",Ended,English,2009-11-15,,History
+727,Pee-Wee's Playhouse,['Comedy'],Ended,English,1986-09-13,6.8,CBS
+728,The Profit,[],Ended,English,2013-07-30,8.0,CNBC
+729,Casualty,"['Drama', 'Medical']",Running,English,1986-09-06,7.1,Unknown
+730,Blue Mountain State,"['Comedy', 'Sports']",Ended,English,2010-01-11,8.0,Paramount Network
+731,Bar Rescue,['Food'],Running,English,2011-07-17,7.3,Paramount Network
+732,Fresh Off the Boat,['Comedy'],Ended,English,2015-02-04,7.3,ABC
+733,The Whispers,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2015-06-01,6.9,ABC
+734,Battle Creek,"['Drama', 'Comedy', 'Crime']",Ended,English,2015-03-01,7.2,CBS
+735,CSI: Cyber,"['Drama', 'Action', 'Crime']",Ended,English,2015-03-04,6.7,CBS
+736,Teenage Mutant Ninja Turtles,"['Comedy', 'Action', 'Science-Fiction']",Ended,English,2003-02-08,7.5,The CW
+737,Bubble Guppies,['Children'],Ended,English,2011-01-24,5.4,Nickelodeon
+738,Pregnant in Heels,[],Ended,English,2011-04-05,,Bravo
+739,The Odd Couple,['Comedy'],Ended,English,2015-02-19,6.8,CBS
+740,Zoo,"['Drama', 'Science-Fiction', 'Thriller']",Ended,English,2015-06-30,7.3,CBS
+741,Are You Smarter Than a 5th Grader?,[],Ended,English,2007-02-27,,FOX
+742,10 Things I Hate About You,"['Drama', 'Comedy']",Ended,English,2009-07-07,6.5,Freeform
+743,The Bachelorette,['Romance'],Running,English,2003-01-08,3.3,ABC
+744,NY Med,"['Drama', 'Medical']",Ended,English,2012-07-10,,ABC
+745,The Real Housewives of Beverly Hills,[],Running,English,2010-10-14,6.1,Bravo
+746,Shameless,"['Drama', 'Comedy', 'Family']",Ended,English,2004-01-13,8.1,Channel 4
+747,Naked and Afraid,"['Adventure', 'Nature']",Running,English,2013-06-23,6.5,Discovery
+748,Oz,"['Drama', 'Crime']",Ended,English,1997-07-12,8.8,HBO
+749,CSI: NY,"['Drama', 'Action', 'Crime']",Ended,English,2004-09-22,7.9,CBS
+750,The Real Housewives of New York City,[],Running,English,2008-03-04,5.5,Bravo
+751,The Graham Norton Show,['Comedy'],Running,English,2007-02-22,8.0,BBC One
+752,My Boys,"['Drama', 'Comedy']",Ended,English,2006-11-28,7.2,TBS
+753,Comedy Bang! Bang!,['Comedy'],Ended,English,2012-06-08,,IFC
+754,Kill la Kill,"['Action', 'Adventure', 'Anime', 'Fantasy']",Ended,Japanese,2013-10-04,6.9,MBS
+755,Freaks and Geeks,"['Drama', 'Comedy']",Ended,English,1999-09-25,8.0,NBC
+756,Not Going Out,['Comedy'],Running,English,2006-10-06,7.8,Unknown
+757,Batman: The Animated Series,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1992-09-05,8.5,FOX
+758,The Secret Life of the American Teenager,"['Drama', 'Comedy', 'Family']",Ended,English,2008-07-01,6.6,Freeform
+759,Good Luck Charlie,"['Comedy', 'Family']",Ended,English,2010-04-04,7.7,Disney Channel
+760,Miami Vice,"['Drama', 'Action', 'Crime']",Ended,English,1984-09-16,7.4,NBC
+761,Edge of Alaska,[],Ended,English,2014-10-24,7.3,Discovery
+762,The Big C,"['Drama', 'Comedy']",Ended,English,2010-08-16,7.7,Paramount+ with Showtime
+763,The Honourable Woman,"['Drama', 'Thriller', 'Espionage']",Ended,English,2014-07-03,7.9,BBC Two
+764,Bored to Death,"['Drama', 'Comedy', 'Crime']",Ended,English,2009-09-20,7.7,HBO
+765,Teen Titans,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2003-07-19,7.3,Cartoon Network
+766,Doctor Who,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1963-11-23,8.4,BBC One
+767,How It's Made,[],Ended,English,2001-01-06,7.7,USA Network
+768,Planet Earth,['Nature'],Ended,English,2006-03-05,8.8,BBC One
+769,Better Off Ted,['Comedy'],Ended,English,2009-03-18,8.2,ABC
+770,Private Practice,"['Drama', 'Romance', 'Medical']",Ended,English,2007-09-26,7.7,ABC
+771,Royal Pains,"['Drama', 'Comedy', 'Family']",Ended,English,2009-06-04,7.4,USA Network
+772,Cold Case,"['Drama', 'Crime']",Ended,English,2003-09-28,8.0,CBS
+773,Medium,"['Drama', 'Crime', 'Supernatural']",Ended,English,2005-01-03,7.4,CBS
+774,The Cleveland Show,['Comedy'],Ended,English,2009-09-27,7.0,FOX
+775,The Closer,"['Drama', 'Crime', 'Mystery']",Ended,English,2005-06-13,7.9,TNT
+776,The O.C.,"['Drama', 'Comedy', 'Romance']",Ended,English,2003-08-05,7.2,FOX
+777,Hannah Montana,"['Comedy', 'Family', 'Music']",Ended,English,2006-03-24,6.2,Disney Channel
+778,Army Wives,"['Drama', 'Family', 'Romance']",Ended,English,2007-06-03,8.0,Lifetime
+779,Brothers & Sisters,['Drama'],Ended,English,2006-09-24,7.6,ABC
+780,Flashpoint,"['Action', 'Adventure', 'Crime']",Ended,English,2008-07-11,7.8,CTV
+781,Friday Night Lights,"['Drama', 'Sports']",Ended,English,2006-10-03,8.2,NBC
+782,Gunsmoke,"['Action', 'Adventure', 'Western']",Ended,English,1955-09-10,7.8,CBS
+785,Body of Proof,"['Drama', 'Crime']",Ended,English,2011-03-29,7.7,ABC
+786,Law & Order: Criminal Intent,"['Drama', 'Crime', 'Legal']",Ended,English,2001-09-30,7.8,USA Network
+787,The Twilight Zone,"['Science-Fiction', 'Mystery', 'Supernatural']",Ended,English,1959-10-02,8.8,CBS
+788,GREEK,"['Drama', 'Comedy']",Ended,English,2007-07-09,7.8,Freeform
+789,Merlin,"['Adventure', 'Fantasy', 'Science-Fiction']",Ended,English,2008-09-20,7.9,BBC One
+790,The Unit,"['Drama', 'Action', 'Crime']",Ended,English,2006-03-07,8.4,CBS
+791,Misfits,"['Drama', 'Comedy', 'Science-Fiction']",Ended,English,2009-11-12,7.8,E4
+792,The Tonight Show with Jay Leno,['Comedy'],Ended,English,1992-05-25,,NBC
+793,EastEnders,['Drama'],Running,English,1985-02-19,6.7,Unknown
+794,Power Rangers,"['Action', 'Children', 'Science-Fiction']",Ended,English,1993-08-28,6.5,Unknown
+795,Jericho,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2006-09-20,8.0,CBS
+796,Ugly Betty,"['Drama', 'Comedy']",Ended,English,2006-09-28,7.7,ABC
+797,Rescue Me,"['Drama', 'Comedy']",Ended,English,2004-07-21,8.0,FX
+798,Deadliest Catch,"['Action', 'Adventure', 'Nature']",Running,English,2005-04-12,7.8,Discovery
+799,7th Heaven,"['Drama', 'Family']",Ended,English,1996-08-26,7.0,The CW
+800,Kyle XY,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2006-06-26,7.9,Freeform
+801,Jersey Shore,[],Ended,English,2009-12-03,5.4,MTV
+802,WWE Monday Night RAW,[],Running,English,1993-01-11,7.4,Unknown
+803,WWE Friday Night SmackDown,"['Drama', 'Comedy', 'Action']",Running,English,1999-04-29,4.3,USA Network
+804,Strike Back,"['Drama', 'Action', 'War']",Ended,English,2010-05-05,8.3,Cinemax
+805,Kitchen Nightmares,['Food'],Running,English,2007-09-19,7.6,FOX
+806,The Bold and the Beautiful,"['Drama', 'Family', 'Romance']",Running,English,1987-03-23,5.4,CBS
+807,Wizards of Waverly Place,"['Comedy', 'Family', 'Fantasy']",Ended,English,2007-10-12,7.8,Disney Channel
+808,iCarly,"['Comedy', 'Children', 'Family']",Ended,English,2007-09-08,6.5,Nickelodeon
+809,Being Human,"['Drama', 'Comedy', 'Science-Fiction']",Ended,English,2009-01-25,8.1,BBC Three
+810,In Plain Sight,"['Drama', 'Action', 'Crime']",Ended,English,2008-06-01,7.9,USA Network
+811,Suburgatory,['Comedy'],Ended,English,2011-09-28,7.1,ABC
+812,Days of Our Lives,"['Drama', 'Family', 'Romance']",Running,English,1965-11-08,7.0,Unknown
+813,Without a Trace,"['Drama', 'Crime', 'Thriller']",Ended,English,2002-09-26,7.6,CBS
+814,No Ordinary Family,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2010-09-28,7.8,ABC
+815,Reaper,"['Drama', 'Comedy', 'Supernatural']",Ended,English,2007-09-25,7.7,The CW
+816,So You Think You Can Dance,['Music'],To be determined,English,2005-07-20,6.1,FOX
+817,Big Love,['Drama'],Ended,English,2006-03-12,7.8,HBO
+818,"Beverly Hills, 90210","['Drama', 'Romance']",Ended,English,1990-10-04,6.5,FOX
+819,Wife Swap,[],Ended,English,2004-09-26,,ABC
+820,Hung,"['Drama', 'Comedy']",Ended,English,2009-06-28,6.9,HBO
+821,MacGyver,"['Action', 'Adventure']",Ended,English,1985-09-29,8.2,ABC
+822,Penn & Teller: Bullshit!,['Comedy'],Ended,English,2003-01-24,8.0,Paramount+ with Showtime
+823,The L Word,"['Drama', 'Romance']",Ended,English,2004-01-15,7.4,Paramount+ with Showtime
+824,Ice Road Truckers,"['Drama', 'Action']",Running,English,2007-06-17,6.6,History
+825,Knight Rider,"['Drama', 'Action', 'Crime']",Ended,English,1982-09-26,7.7,NBC
+826,Bewitched,"['Comedy', 'Family', 'Fantasy']",Ended,English,1964-09-17,7.4,ABC
+827,The Cleaner,"['Drama', 'Action']",Ended,English,2008-07-15,6.9,A&E
+828,Mistresses,"['Drama', 'Romance']",Ended,English,2008-01-08,6.2,BBC One
+829,Hotel Impossible,['Travel'],Ended,English,2012-04-09,,Travel Channel
+830,Homicide: Life on the Street,"['Drama', 'Crime', 'Mystery']",Ended,English,1993-01-31,8.0,NBC
+831,Made in Chelsea,[],Running,English,2011-05-09,4.4,E4
+832,The Rockford Files,"['Drama', 'Action', 'Crime']",Ended,English,1974-03-27,7.9,NBC
+833,Hustle,"['Drama', 'Crime', 'Thriller']",Ended,English,2004-02-24,8.0,BBC One
+834,The Secret Circle,"['Drama', 'Horror', 'Supernatural']",Ended,English,2011-09-15,7.6,The CW
+835,Boss,"['Drama', 'Crime']",Ended,English,2011-10-21,7.9,STARZ
+836,Late Night with Conan O'Brien,['Comedy'],Ended,English,1993-09-13,8.0,NBC
+837,Full Throttle Saloon,[],Ended,English,2009-11-10,,Destination America
+838,Dirty Jobs,[],To be determined,English,2003-11-07,7.9,Discovery
+839,According to Jim,"['Comedy', 'Family']",Ended,English,2001-10-03,5.9,ABC
+840,Treme,"['Drama', 'Music']",Ended,English,2010-04-11,7.8,HBO
+841,"Quincy, M.E.","['Drama', 'Crime', 'Medical']",Ended,English,1976-10-03,7.8,NBC
+842,Geordie Shore,"['Drama', 'Comedy']",Running,English,2011-05-24,6.6,MTV
+843,In Treatment,"['Drama', 'Medical']",Ended,English,2008-01-28,7.2,HBO
+844,Heroes Unmasked,['Science-Fiction'],Ended,English,2007-07-25,,BBC Two
+845,Dawson's Creek,"['Drama', 'Romance']",Ended,English,1998-01-20,7.2,The WB
+846,The Real Housewives of Orange County,[],Running,English,2006-03-21,4.7,Bravo
+847,The Hard Times of RJ Berger,['Comedy'],Ended,English,2010-06-06,,MTV
+848,ALF,"['Comedy', 'Family', 'Science-Fiction']",Ended,English,1986-09-22,7.5,NBC
+849,"I'm a Celebrity, Get Me Out of Here!",[],Running,English,2002-08-25,4.7,ITV1
+850,Life on Mars,"['Drama', 'Crime', 'Science-Fiction']",Ended,English,2006-01-09,8.0,BBC One
+851,Time Team,['History'],Ended,English,1994-01-16,7.0,Channel 4
+854,Luck,"['Drama', 'Crime', 'Sports']",Ended,English,2012-01-29,7.5,HBO
+855,"Drugs, Inc.",[],Ended,English,2010-07-11,6.7,National Geographic
+856,Sinbad,"['Action', 'Adventure', 'Fantasy']",Ended,English,2012-07-08,7.7,Sky Showcase
+857,Later... with Jools Holland,['Music'],Running,English,1992-10-08,8.0,BBC Two
+858,Outcasts,"['Drama', 'Science-Fiction']",Ended,English,2011-02-07,7.7,BBC One
+859,Hardcore Pawn,[],Ended,English,2010-08-16,7.9,truTV
+860,Storage Wars,[],Running,English,2010-12-01,6.1,A&E
+861,Dirty Sexy Money,['Drama'],Ended,English,2007-09-26,7.4,ABC
+862,Being Erica,"['Drama', 'Comedy', 'Fantasy']",Ended,English,2009-01-05,8.0,CBC
+863,Dallas,"['Drama', 'Family']",Ended,English,1978-04-02,6.9,CBS
+864,The Firm,"['Drama', 'Crime', 'Legal']",Ended,English,2012-01-08,7.1,NBC
+865,Secret Diary of a Call Girl,"['Drama', 'Adult']",Ended,English,2007-09-27,7.7,ITV2
+866,The Finder,"['Drama', 'Comedy', 'Crime']",Ended,English,2012-01-12,7.8,FOX
+867,Law & Order: LA,"['Drama', 'Crime', 'Legal']",Ended,English,2010-09-29,7.1,NBC
+868,Regular Show,"['Comedy', 'Adventure']",Ended,English,2010-09-06,7.6,Cartoon Network
+869,Deadly Women,['Crime'],Ended,English,2005-02-08,7.2,Investigation Discovery
+870,Battlestar Galactica: Blood & Chrome,"['Drama', 'Action', 'Science-Fiction']",Ended,English,2012-11-09,8.0,Syfy
+871,Bunheads,"['Drama', 'Comedy']",Ended,English,2012-06-11,7.9,Freeform
+872,How It's Made: Dream Cars,"['Nature', 'History', 'Sports']",Ended,English,2013-06-13,6.5,Science
+873,George Clarke's Amazing Spaces,['DIY'],Running,English,2012-10-23,7.1,Channel 4
+874,Taboo,[],Ended,English,2002-09-30,,National Geographic
+875,Question Time,[],Running,English,1979-09-25,5.0,Unknown
+877,Extreme Weight Loss,[],Ended,English,2011-05-30,,ABC
+878,Pit Bulls & Parolees,[],Ended,English,2009-10-30,7.9,Animal Planet
+879,Rude Tube,['Comedy'],Ended,English,2008-11-05,,E4
+880,Tattoos After Dark,[],Ended,English,2014-01-01,,Oxygen True Crime
+881,CHiPs,"['Drama', 'Action', 'Crime']",Ended,English,1977-09-15,7.1,NBC
+882,Agatha Christie's Marple,"['Drama', 'Crime', 'Mystery']",Ended,English,2004-12-12,7.6,ITV1
+883,Posh People: Inside Tatler,[],Ended,English,2014-11-24,,BBC Two
+884,8 Out of 10 Cats Does Countdown,['Comedy'],Running,English,2012-01-02,7.9,Channel 4
+885,Rewrapped,[],Ended,English,2014-04-21,,Food Network
+886,The Legend of Mick Dodge,[],Ended,English,2014-01-07,,National Geographic
+887,Project Runway: Threads,[],Ended,English,2014-10-23,,Lifetime
+888,Top Chef Duels,['Food'],Ended,English,2014-08-06,,Bravo
+889,Benidorm,['Comedy'],Ended,English,2007-02-01,7.6,ITV1
+890,Young Dracula,"['Comedy', 'Children', 'Horror']",Ended,English,2006-09-21,8.2,CBBC
+891,Hard Knocks,['Sports'],Running,English,2001-08-01,6.9,HBO
+892,The Haunted,"['Horror', 'Supernatural']",Ended,English,2009-11-22,,Animal Planet
+894,Paw Patrol,"['Comedy', 'Action', 'Adventure']",Running,English,2013-08-12,6.2,TVO
+895,Rake,"['Drama', 'Comedy', 'Legal']",Ended,English,2014-01-23,7.2,FOX
+896,Sanjay and Craig,"['Comedy', 'Children']",Ended,English,2013-05-25,7.2,Nicktoons
+897,Reckless,['Drama'],Ended,English,2014-06-29,7.8,CBS
+898,Storage Hunters,[],Ended,English,2011-06-21,6.3,truTV
+899,Great Continental Railway Journeys,['Travel'],Running,English,2012-11-08,,BBC Two
+900,Batman: The Brave and the Bold,"['Action', 'Crime', 'Science-Fiction']",Ended,English,2008-11-13,7.6,Cartoon Network
+901,Pioneers of Television,[],Ended,English,2008-01-02,,PBS
+902,Don't Tell the Bride,[],To be determined,English,2007-11-08,,E4
+903,Eggheads,[],Ended,English,2003-11-10,,BBC Two
+904,Antiques Roadshow,['History'],Running,English,1979-02-18,7.8,BBC One
+905,Hercules: The Legendary Journeys,"['Action', 'Adventure', 'Fantasy']",Ended,English,1994-05-05,6.9,Syndication
+906,Girlfriends,"['Comedy', 'Romance']",Ended,English,2000-09-11,7.4,The CW
+907,The Practice,"['Drama', 'Legal']",Ended,English,1997-03-04,7.5,ABC
+908,Queer As Folk,"['Drama', 'Romance']",Ended,English,2000-12-03,7.7,Paramount+ with Showtime
+909,Perry Mason,"['Drama', 'Crime', 'Legal']",Ended,English,1957-09-21,6.4,CBS
+910,Beavis and Butt-Head,"['Comedy', 'Music']",Ended,English,1992-09-22,7.2,MTV
+911,Some Girls,['Comedy'],Ended,English,2012-11-06,7.8,BBC Three
+912,The Boondocks,['Comedy'],Ended,English,2005-11-06,7.8,Adult Swim
+913,Man vs. Wild,"['Action', 'Adventure']",Ended,English,2006-10-27,8.0,Discovery
+914,The Bachelor,['Romance'],Running,English,2002-03-25,3.0,ABC
+915,The Suite Life of Zack and Cody,"['Comedy', 'Children', 'Family']",Ended,English,2005-03-18,7.5,Disney Channel
+916,Ridiculousness,['Comedy'],Running,English,2011-08-29,6.2,MTV
+917,Ringer,"['Drama', 'Crime', 'Mystery']",Ended,English,2011-09-13,5.9,The CW
+918,Pushing Daisies,"['Drama', 'Mystery', 'Supernatural']",Ended,English,2007-10-03,8.1,ABC
+919,Attack on Titan,"['Anime', 'Fantasy', 'Horror']",Ended,Japanese,2013-04-07,8.9,NHK
+920,Waterloo Road,['Drama'],Running,English,2006-03-09,6.8,Unknown
+921,Cake Boss,"['Food', 'Family']",Ended,English,2009-05-25,4.6,Discovery Family
+922,The Ultimate Fighter,"['Drama', 'Action', 'Sports']",Running,English,2005-01-17,6.2,Unknown
+923,Primeval,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,2007-02-10,8.0,U&W
+924,Naked and Afraid: Uncensored,"['Adventure', 'Nature']",Running,English,2013-06-30,4.9,Discovery
+926,Ghost Adventures,['Supernatural'],Running,English,2008-10-17,6.6,Discovery
+927,Strange Sex,[],Ended,English,2010-07-18,,TLC
+928,Metalocalypse,['Comedy'],Ended,English,2006-08-06,7.5,Adult Swim
+929,The X Factor,['Music'],Ended,English,2011-09-21,4.4,FOX
+930,The Hills,[],Ended,English,2006-05-31,5.4,MTV
+931,American Chopper: Senior vs. Junior,[],Ended,English,2010-08-12,,Discovery
+932,Modern Marvels,"['Mystery', 'Nature', 'History']",To be determined,English,1993-12-10,7.8,History
+933,American Chopper,[],Ended,English,2002-09-29,6.6,Discovery
+934,Swamp People,"['Adventure', 'Nature']",Running,English,2010-08-22,6.8,History
+935,Reno 911!,"['Comedy', 'Action', 'Crime']",Ended,English,2003-07-23,7.1,Unknown
+936,LA Ink,[],Ended,English,2007-08-07,,TLC
+937,Dark Blue,"['Drama', 'Action', 'Crime']",Ended,English,2009-07-15,7.9,TNT
+938,Silent Witness,"['Drama', 'Crime']",Running,English,1996-02-21,7.6,Unknown
+939,Ax Men,['Adventure'],Ended,English,2008-03-09,6.2,History
+940,The Dead Zone,"['Drama', 'Fantasy', 'Thriller']",Ended,English,2002-06-16,8.1,USA Network
+941,Eli Stone,"['Drama', 'Fantasy', 'Legal']",Ended,English,2008-01-31,7.7,ABC
+942,Pan Am,"['Drama', 'Thriller']",Ended,English,2011-09-25,7.2,ABC
+943,Saving Grace,"['Drama', 'Crime', 'Fantasy']",Ended,English,2007-07-23,7.9,TNT
+944,Reba,"['Drama', 'Comedy', 'Family']",Ended,English,2001-10-05,7.2,The CW
+945,Life on Mars,"['Drama', 'Crime', 'Fantasy']",Ended,English,2008-10-09,7.8,ABC
+946,Waking the Dead,"['Drama', 'Crime']",Ended,English,2000-09-04,7.9,BBC One
+947,Friends with Benefits,"['Comedy', 'Romance']",Ended,English,2011-08-05,6.2,NBC
+948,Crossing Jordan,"['Drama', 'Crime', 'Mystery']",Ended,English,2001-09-24,7.2,NBC
+949,The Village,"['Drama', 'History']",Ended,English,2013-03-31,7.8,BBC One
+950,Family Ties,"['Drama', 'Comedy', 'Family']",Ended,English,1982-09-22,7.2,NBC
+951,Ben 10,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2005-12-27,6.9,Cartoon Network
+952,My Wife and Kids,"['Comedy', 'Family']",Ended,English,2001-03-28,6.9,ABC
+953,The Inbetweeners,['Comedy'],Ended,English,2008-05-01,7.6,E4
+954,Chopped,['Food'],Running,English,2009-01-13,6.2,Food Network
+955,American Restoration,['History'],Ended,English,2010-10-25,6.4,History
+956,Magnum P.I.,"['Drama', 'Action', 'Mystery']",Ended,English,1980-12-11,7.7,CBS
+957,The Dresden Files,"['Drama', 'Fantasy', 'Mystery']",Ended,English,2007-01-21,7.9,Syfy
+958,Gangland,['Crime'],Ended,English,2007-11-01,,History
+959,Operation Repo,['Drama'],Ended,English,2008-11-17,,truTV
+960,Melrose Place,"['Drama', 'Romance']",Ended,English,1992-07-08,7.1,FOX
+961,The Lying Game,"['Drama', 'Thriller']",Ended,English,2011-08-15,7.6,Freeform
+962,Hawaii Five-O,"['Action', 'Adventure', 'Crime']",Ended,English,1968-09-20,7.2,CBS
+963,'til Death,"['Comedy', 'Romance']",Ended,English,2006-09-07,7.4,FOX
+964,United States of Tara,"['Drama', 'Comedy']",Ended,English,2009-01-18,7.5,Paramount+ with Showtime
+965,Hawthorne,['Drama'],Ended,English,2009-06-16,,TNT
+966,House of Anubis,"['Drama', 'Fantasy', 'Mystery']",Ended,English,2011-01-01,7.2,Nickelodeon
+967,Deception,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-01-07,7.8,NBC
+968,Rubicon,"['Drama', 'Thriller', 'Espionage']",Ended,English,2010-06-13,7.9,AMC
+969,19 Kids and Counting,['Family'],Ended,English,2008-09-29,,TLC
+970,The Sarah Jane Adventures,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2007-01-01,7.5,BBC One
+971,Chaos,"['Drama', 'Comedy', 'Espionage']",Ended,English,2011-04-01,7.5,CBS
+972,Dirt,['Drama'],Ended,English,2007-01-02,7.6,FX
+973,"Little People, Big World",[],To be determined,English,2006-03-04,4.8,TLC
+974,Snapped,['Crime'],Running,English,2004-08-06,6.3,Oxygen True Crime
+975,Batman,"['Comedy', 'Action', 'Adventure']",Ended,English,1966-01-12,7.8,ABC
+976,Sabrina the Teenage Witch,"['Comedy', 'Family', 'Fantasy']",Ended,English,1996-09-27,7.6,The WB
+977,Chase,"['Drama', 'Action', 'Crime']",Ended,English,2010-09-20,7.8,NBC
+978,Chowder,"['Comedy', 'Children']",Ended,English,2007-11-02,7.9,Cartoon Network
+979,Good Eats,['Food'],Ended,English,1999-07-07,8.0,Food Network
+980,Wipeout,['Comedy'],Ended,English,2008-06-24,7.9,ABC
+981,Cleopatra 2525,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,2000-01-17,6.8,Syndication
+982,Jack of All Trades,"['Comedy', 'Action', 'Adventure']",Ended,English,2000-01-22,7.4,Syndication
+983,Hollywood Heights,"['Drama', 'Music', 'Romance']",Ended,English,2012-06-11,,nick@nite
+984,8 Simple Rules,"['Comedy', 'Family']",Ended,English,2002-09-17,6.9,ABC
+985,The New Adventures of Old Christine,"['Comedy', 'Family']",Ended,English,2006-03-13,7.4,CBS
+986,The Sarah Silverman Program,['Comedy'],Ended,English,2007-02-01,6.4,Comedy Central
+987,Hellcats,"['Drama', 'Comedy']",Ended,English,2010-09-08,7.5,The CW
+988,Drake & Josh,"['Comedy', 'Family']",Ended,English,2004-01-11,7.5,Nickelodeon
+989,Bang Goes the Theory,[],Ended,English,2009-07-27,,BBC One
+990,Doc Martin,"['Drama', 'Comedy', 'Medical']",Ended,English,2004-09-02,8.1,ITV1
+991,The Real World,['Drama'],Ended,English,1992-05-21,,Unknown
+992,Dog the Bounty Hunter,[],Ended,English,2004-08-31,4.5,A&E
+993,Life Unexpected,"['Drama', 'Family']",Ended,English,2010-01-18,7.2,The CW
+994,Flight of the Conchords,"['Comedy', 'Music']",Ended,English,2007-06-17,8.0,HBO
+995,The Dog Whisperer,['Family'],Ended,English,2004-09-13,4.8,National Geographic Wild
+996,Men in Trees,"['Drama', 'Comedy']",Ended,English,2006-09-12,7.8,ABC
+997,Catfish: The TV Show,[],Running,English,2012-11-12,6.0,MTV
+998,Detroit 1-8-7,"['Drama', 'Action', 'Crime']",Ended,English,2010-09-21,7.5,ABC
+999,Flash Gordon,['Science-Fiction'],Ended,English,2007-08-10,6.5,Syfy
+1000,Squidbillies,['Comedy'],Ended,English,2005-10-16,7.0,Adult Swim
+1001,Bag of Bones,"['Drama', 'Horror', 'Mystery']",Ended,English,2011-12-11,7.2,A&E
+1002,Camelot,"['Drama', 'Fantasy']",Ended,English,2011-02-25,6.7,STARZ
+1003,Talking Bad,[],Ended,English,2013-08-11,,AMC
+1005,Happy Town,"['Drama', 'Crime', 'Mystery']",Ended,English,2010-04-28,7.1,ABC
+1007,Tru Calling,"['Drama', 'Fantasy']",Ended,English,2003-10-30,7.9,FOX
+1008,Masters of Science Fiction,"['Drama', 'Science-Fiction']",Ended,English,2007-08-04,7.1,ABC
+1009,Do No Harm,"['Drama', 'Horror', 'Medical']",Ended,English,2013-01-31,7.8,NBC
+1010,Zero Hour,"['Drama', 'Thriller', 'Supernatural']",Ended,English,2013-02-14,7.6,ABC
+1011,Vanderpump Rules,[],Running,English,2013-01-07,5.7,Bravo
+1012,Undercovers,['Drama'],Ended,English,2010-09-22,6.1,NBC
+1013,The Playboy Club,['Drama'],Ended,English,2011-09-19,7.7,NBC
+1014,The Pillars of the Earth,"['Drama', 'Romance', 'History']",Ended,English,2010-07-23,7.9,STARZ
+1015,Newport Harbor: The Real Orange County,[],Ended,English,2004-09-28,,MTV
+1016,Fear Itself,"['Drama', 'Horror']",Ended,English,2008-06-05,6.1,NBC
+1017,Halo 4: Forward Unto Dawn,"['Action', 'Science-Fiction']",Ended,English,2012-10-05,7.5,Unknown
+1018,Legend of Earthsea,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2004-12-13,5.9,Syfy
+1019,The Inside,"['Drama', 'Crime']",Ended,English,2005-06-08,7.1,FOX
+1020,Criminal Minds: Suspect Behavior,"['Drama', 'Crime', 'Mystery']",Ended,English,2011-02-16,6.7,CBS
+1021,Cult,"['Drama', 'Thriller', 'Mystery']",Ended,English,2013-02-19,5.5,The CW
+1022,Dr. Horrible's Sing-Along Blog,"['Comedy', 'Music', 'Science-Fiction']",Ended,English,2008-07-15,8.0,Unknown
+1023,The Glee Project,"['Drama', 'Family', 'Music']",Ended,English,2011-06-12,,Oxygen True Crime
+1024,Alice,"['Adventure', 'Fantasy']",Ended,English,2009-12-06,7.2,Syfy
+1025,Lights Out,"['Drama', 'Crime', 'Sports']",Ended,English,2011-01-11,7.7,FX
+1026,The City,[],Ended,English,2008-12-29,,MTV
+1027,Angel o Demonio,"['Drama', 'Fantasy', 'Mystery']",Ended,Spanish,2011-02-01,,Telecinco
+1028,Audrina,[],Ended,English,2011-04-17,,VH1
+1029,Punta Escarlata,[],Ended,Spanish,2011-07-25,,Telecinco
+1030,Acusados,['Drama'],Ended,Spanish,2009-01-28,,Telecinco
+1031,El Internado,"['Drama', 'Thriller', 'Mystery']",Ended,Spanish,2007-05-24,8.0,Antena 3
+1032,Motivos Personales,[],Ended,Spanish,2005-02-01,,Telecinco
+1033,Hay alguien ahí,"['Thriller', 'Supernatural']",Ended,Spanish,2009-03-16,,Cuatro
+1034,Sorority Sisters,[],Ended,English,2014-12-15,,VH1
+1035,Life,"['Drama', 'Crime']",Ended,English,2007-09-26,8.0,NBC
+1036,Robin Hood,"['Drama', 'Action', 'Adventure']",Ended,English,2006-10-07,6.9,BBC One
+1037,Sons of Guns,[],Ended,English,2011-01-26,,Discovery
+1038,Zoey 101,"['Drama', 'Comedy', 'Family']",Ended,English,2005-01-09,5.3,Nickelodeon
+1039,V,"['Drama', 'Action', 'Science-Fiction']",Ended,English,1983-05-01,7.9,NBC
+1040,The Young Indiana Jones Chronicles,"['Action', 'Adventure', 'Fantasy']",Ended,English,1992-03-04,7.3,ABC
+1041,World Without End,"['Drama', 'Romance', 'History']",Ended,English,2012-09-04,7.7,Showcase
+1042,Wonderfalls,"['Drama', 'Comedy', 'Fantasy']",Ended,English,2004-10-04,7.9,VisionTV
+1043,The White Queen,"['Drama', 'History']",Ended,English,2013-06-16,7.9,BBC One
+1044,Whitechapel,"['Drama', 'Crime', 'Mystery']",Ended,English,2009-02-02,7.9,ITV1
+1045,Viper,['Action'],Ended,English,1994-01-02,,Syndication
+1046,Verano Azul,"['Drama', 'Comedy', 'Family']",Ended,Spanish,1981-10-11,,TVE
+1047,Upstairs Downstairs,['Drama'],Ended,English,2010-12-26,7.6,BBC One
+1048,Ultimate Survival Alaska,[],Ended,English,2013-05-12,,National Geographic
+1049,Trophy Wife,['Comedy'],Ended,English,2013-09-24,6.9,ABC
+1050,Top of the Lake,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-03-18,7.7,Unknown
+1051,The 10th Kingdom,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2000-02-27,8.0,NBC
+1052,21 Jump Street,"['Drama', 'Action', 'Adventure']",Ended,English,1987-04-12,6.9,Syndication
+1053,3rd Rock from the Sun,"['Comedy', 'Family', 'Science-Fiction']",Ended,English,1996-01-09,7.8,NBC
+1054,Absolutely Fabulous,['Comedy'],Ended,English,1992-11-12,7.8,BBC One
+1055,The Adventures of Tintin,"['Adventure', 'Children', 'Mystery']",Ended,English,1992-10-18,6.9,Family Channel
+1056,'Allo 'Allo!,"['Comedy', 'War']",Ended,English,1982-12-30,8.0,BBC One
+1057,The Assets,['Thriller'],Ended,English,2014-01-02,7.9,ABC
+1058,The A-Team,"['Action', 'Adventure']",Ended,English,1983-01-23,7.5,NBC
+1059,Battlestar Galactica,"['Action', 'Adventure', 'Science-Fiction']",Ended,English,1978-09-17,7.9,ABC
+1060,Titanic,['Drama'],Ended,English,2012-03-25,7.0,ITV1
+1061,Terriers,"['Drama', 'Comedy', 'Crime']",Ended,English,2010-09-08,8.0,FX
+1062,Survivors,"['Drama', 'Science-Fiction']",Ended,English,2008-11-23,7.2,BBC One
+1063,Studio 60 on the Sunset Strip,"['Drama', 'Comedy']",Ended,English,2006-09-18,8.0,NBC
+1064,The State Within,"['Drama', 'Thriller']",Ended,English,2006-11-02,,BBC One
+1065,Spaced,['Comedy'],Ended,English,1999-09-24,7.9,Channel 4
+1066,South Riding,"['Drama', 'Romance']",Ended,English,2011-02-20,,BBC One
+1067,South of Nowhere,['Drama'],Ended,English,2005-11-04,,TeenNick
+1068,Six Degrees,"['Drama', 'Mystery']",Ended,English,2006-09-21,,ABC
+1069,Samantha Who?,"['Comedy', 'Romance']",Ended,English,2007-10-15,7.5,ABC
+1070,Baywatch,"['Drama', 'Action', 'Adventure']",Ended,English,1989-09-22,6.3,Syndication
+1071,Birdsong,"['Drama', 'Romance', 'War']",Ended,English,2012-01-22,7.8,BBC One
+1072,Blackadder,"['Comedy', 'History']",Ended,English,1983-06-15,8.4,BBC One
+1073,Bomb Girls,"['Drama', 'Romance', 'War']",Ended,English,2012-01-04,7.7,Global
+1074,Bonekickers,"['Drama', 'Adventure']",Ended,English,2008-07-08,6.5,BBC One
+1075,Brideshead Revisited,['Drama'],Ended,English,1981-10-12,8.0,ITV1
+1076,Frank Herbert's Children of Dune,"['Drama', 'Science-Fiction']",Ended,English,2003-03-16,7.7,Syfy
+1078,The Riches,"['Drama', 'Comedy']",Ended,English,2007-03-12,7.9,FX
+1080,Profiler,"['Drama', 'Crime', 'Thriller']",Ended,English,1996-09-21,7.7,NBC
+1081,Primeval: New World,"['Drama', 'Adventure', 'Fantasy']",Ended,English,2012-10-29,7.2,CTV Sci-Fi Channel
+1082,Political Animals,['Drama'],Ended,English,2012-07-15,7.7,USA Network
+1083,ReactToThat,[],Ended,English,2014-12-15,,Nickelodeon
+1084,Commander in Chief,['Drama'],Ended,English,2005-09-27,7.7,ABC
+1085,Coupling,"['Comedy', 'Romance']",Ended,English,2000-05-12,7.8,BBC Three
+1086,Coupling,"['Drama', 'Comedy', 'Romance']",Ended,English,2003-09-25,6.0,NBC
+1087,Cranford,['Drama'],Ended,English,2007-11-18,7.9,BBC One
+1088,The Crimson Petal and the White,"['Drama', 'Thriller']",Ended,English,2011-04-06,6.7,BBC Two
+1089,Crusade,"['Drama', 'Action', 'Science-Fiction']",Ended,English,1999-06-09,7.8,TNT
+1090,Cupid,"['Drama', 'Comedy', 'Romance']",Ended,English,1998-09-26,8.0,ABC
+1091,Cupid,"['Drama', 'Romance']",Ended,English,2009-03-31,7.1,ABC
+1092,Death Comes to Pemberley,"['Drama', 'Romance', 'Mystery']",Ended,English,2013-12-26,7.5,BBC One
+1093,The Devil's Whore,"['Drama', 'War', 'History']",Ended,English,2008-11-19,7.8,Channel 4
+1094,Dinotopia,"['Adventure', 'Family', 'Fantasy']",Ended,English,2002-11-28,6.2,ABC
+1095,"Doogie Howser, M.D.","['Comedy', 'Medical']",Ended,English,1989-09-19,7.0,ABC
+1096,Drive,"['Drama', 'Action', 'Adventure']",Ended,English,2007-04-13,7.6,FOX
+1097,"Dr. Quinn, Medicine Woman","['Drama', 'Family', 'Western']",Ended,English,1993-01-01,7.0,CBS
+1098,Early Edition,"['Drama', 'Fantasy', 'Science-Fiction']",Ended,English,1996-09-28,7.7,CBS
+1099,Enlisted,['Comedy'],Ended,English,2014-01-10,7.8,FOX
+1100,The Fades,"['Drama', 'Thriller', 'Supernatural']",Ended,English,2011-09-21,7.3,BBC Three
+1101,Frank Herbert's Dune,"['Drama', 'Science-Fiction']",Ended,English,2000-12-03,7.8,Syfy
+1102,Hatfields & McCoys,"['Drama', 'Romance', 'Western']",Ended,English,2012-05-28,7.9,History
+1103,The Hour,"['Drama', 'Thriller', 'Espionage']",Ended,English,2011-07-19,7.4,BBC Two
+1104,"I, Claudius","['Drama', 'History']",Ended,English,1976-09-20,8.0,BBC Two
+1105,In a Land of Plenty,['Drama'],Ended,English,2001-01-10,,BBC One
+1107,Jack & Jill,"['Drama', 'Comedy']",Ended,English,1999-09-26,,The WB
+1108,Jekyll,"['Drama', 'Horror', 'Science-Fiction']",Ended,English,2007-06-16,7.0,BBC One
+1109,Judging Amy,"['Drama', 'Family', 'Legal']",Ended,English,1999-09-19,7.2,CBS
+1110,Kings,"['Drama', 'Science-Fiction']",Ended,English,2009-03-15,8.0,NBC
+1111,Klondike,"['Drama', 'Adventure', 'History']",Ended,English,2014-01-20,7.1,Discovery
+1112,Um Mundo Catita,[],Ended,Portuguese,2008-11-05,,RTP1
+1113,K-Ville,['Drama'],Ended,English,2007-09-17,7.3,FOX
+1114,Lip Service,"['Drama', 'Romance']",Ended,English,2010-10-12,7.6,BBC Three
+1115,Mad About You,"['Comedy', 'Romance']",Ended,English,1992-09-23,7.5,Unknown
+1116,The Middleman,"['Drama', 'Comedy', 'Science-Fiction']",Ended,English,2008-06-16,7.8,Freeform
+1117,Mildred Pierce,['Drama'],Ended,English,2011-03-27,7.8,HBO
+1118,My Family,"['Comedy', 'Family']",Ended,English,2000-09-19,7.4,BBC One
+1119,The Nanny,"['Comedy', 'Family']",Ended,English,1993-11-03,7.4,CBS
+1121,Cowboy Bebop,"['Action', 'Adventure', 'Anime', 'Science-Fiction']",Ended,Japanese,1998-10-24,8.5,WOWOW
+1122,Amazing Stories,"['Fantasy', 'Science-Fiction']",Ended,English,1985-09-29,7.5,NBC
+1123,American Gothic,"['Drama', 'Horror']",Ended,English,1995-09-22,7.6,CBS
+1124,Becoming Human,"['Drama', 'Fantasy', 'Horror']",Ended,English,2011-01-30,7.6,BBC Three
+1125,Brimstone,"['Action', 'Fantasy', 'Horror']",Ended,English,1998-10-23,7.4,FOX
+1126,Clone,['Comedy'],Ended,English,2008-11-17,,BBC Three
+1128,Cosmos,"['Mystery', 'Nature', 'History']",Ended,English,1980-09-28,8.5,National Geographic
+1129,Dungeons & Dragons,"['Adventure', 'Fantasy']",Ended,English,1983-09-17,6.5,CBS
+1130,Journeyman,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2007-09-24,7.5,NBC
+1131,Neverland,"['Adventure', 'Fantasy']",Ended,English,2011-12-04,6.6,Syfy
+1132,Neverwhere,"['Drama', 'Fantasy']",Ended,English,1996-09-12,5.9,BBC Two
+1133,Planet of the Apes,"['Drama', 'Adventure', 'Science-Fiction']",Ended,English,1974-09-13,6.9,CBS
+1134,ThunderCats,"['Action', 'Adventure']",Ended,English,2011-07-29,7.7,Cartoon Network
+1135,The Time Tunnel,"['Adventure', 'Science-Fiction']",Ended,English,1966-09-09,7.8,ABC
+1136,Tron: Uprising,"['Action', 'Adventure']",Ended,English,2012-05-18,7.8,Disney XD
+1137,Party Down,['Comedy'],To be determined,English,2009-03-20,7.2,Unknown
+1138,The Inbetweeners,['Comedy'],Ended,English,2012-08-20,4.0,MTV
+1139,Impractical Jokers,['Comedy'],Running,English,2011-12-15,7.6,TBS
+1140,Gates,['Comedy'],Ended,English,2012-08-14,,Sky Witness
+1141,Eastbound & Down,"['Drama', 'Comedy', 'Sports']",Ended,English,2009-02-15,7.3,HBO
+1142,Celebrity Motor Homes,[],Ended,English,2011-12-22,,Great American Family
+1143,Extra,[],Running,English,1994-09-05,,Syndication
+1144,Mecum Dealmakers,[],Ended,English,2014-07-31,,NBCSN
+1145,Beat Bobby Flay,['Food'],Running,English,2013-08-25,6.0,Food Network
+1146,A Stranger in My Home,"['Crime', 'Mystery']",Ended,English,2013-10-13,,Investigation Discovery
+1147,Kröd Mändoon and the Flaming Sword of Fire,"['Comedy', 'Action', 'Fantasy']",Ended,English,2009-04-09,6.9,Comedy Central
+1148,Life As We Know It,"['Drama', 'Comedy']",Ended,English,2004-10-07,6.3,ABC
+1149,Seven Ages of Rock,['Music'],Ended,English,2007-05-19,,BBC Two
+1150,Life As We Know It,['Comedy'],Ended,English,2001-07-22,,BBC One
+1151,The Young Ones,['Comedy'],Ended,English,1982-11-09,7.9,BBC Two
+1152,The Net,['Thriller'],Ended,English,1998-07-19,6.5,USA Network
+1153,New Amsterdam,"['Drama', 'Crime', 'Fantasy']",Ended,English,2008-03-04,7.7,FOX
+1154,The Nine,"['Drama', 'Mystery']",Ended,English,2006-10-04,7.5,ABC
+1155,No Heroics,"['Comedy', 'Fantasy']",Ended,English,2008-09-18,,ITV2
+1156,North & South,"['Drama', 'Romance']",Ended,English,2004-11-14,8.0,BBC One
+1157,North and South,"['Drama', 'History']",Ended,English,1985-11-03,8.1,ABC
+1158,October Road,['Drama'],Ended,English,2007-03-15,7.2,ABC
+1159,Once and Again,"['Drama', 'Family', 'Romance']",Ended,English,1999-09-21,7.8,ABC
+1160,Out of Practice,['Comedy'],Ended,English,2005-09-19,7.5,CBS
+1161,Parade's End,"['Drama', 'War', 'History']",Ended,English,2012-08-24,7.8,BBC Two
+1162,The Paradise,"['Drama', 'Romance', 'History']",Ended,English,2012-09-25,7.8,BBC One
+1163,Parker Lewis Can't Lose,['Comedy'],Ended,English,1990-09-02,8.0,FOX
+1164,Party of Five,"['Drama', 'Family']",Ended,English,1994-09-12,7.0,FOX
+1165,Picket Fences,"['Drama', 'Family']",Ended,English,1992-09-18,5.6,CBS
+1166,Agatha Christie's Poirot,"['Drama', 'Crime', 'Mystery']",Ended,English,1989-01-08,8.2,ITV1
+1167,Maison Close,['Drama'],Ended,French,2010-10-04,,Canal+
+1168,Les Revenants,"['Drama', 'Fantasy', 'Horror']",Ended,French,2012-11-26,7.6,Canal+
+1169,Les Rois Maudits,"['Drama', 'History']",Ended,French,2005-11-07,,France 2
+1170,Mysteries at the Castle,"['Mystery', 'History']",Ended,English,2014-01-19,,Travel Channel
+1171,Branson Famous,['Music'],Ended,English,2014-12-29,,truTV
+1172,Big Women: Big Love,['Romance'],Ended,English,2015-01-01,,Lifetime
+1173,Child Genius,[],Ended,English,2015-01-06,,Lifetime
+1174,Open Heart,"['Drama', 'Mystery', 'Medical']",Ended,English,2015-01-20,,TeenNick
+1175,Nightwatch,['Medical'],To be determined,English,2015-01-22,7.7,A&E
+1176,The Slap,['Drama'],Ended,English,2015-02-12,7.1,NBC
+1177,Good Witch,"['Family', 'Romance', 'Mystery']",Ended,English,2008-01-18,8.0,Hallmark Channel
+1178,American Odyssey,"['Action', 'Adventure', 'Thriller']",Ended,English,2015-04-05,6.8,NBC
+1179,Wayward Pines,"['Drama', 'Science-Fiction', 'Mystery']",Ended,English,2015-05-14,7.5,FOX
+1180,Museum Men,[],Ended,English,2014-11-29,,Vice TV
+1181,Sex Sent Me to the ER,[],Ended,English,2013-12-28,,TLC
+1182,I'd Kill for You,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-11-02,,Investigation Discovery
+1183,Railroad Alaska,"['Action', 'Adventure']",Ended,English,2013-11-16,,Destination America
+1184,America Unearthed,['History'],Ended,English,2012-12-21,7.7,Travel Channel
+1185,Fatal Vows,"['Drama', 'Crime', 'Thriller']",Ended,English,2012-11-17,6.0,Investigation Discovery
+1186,Extreme Escapes,[],Ended,English,2014-11-29,,REELZ
+1187,Caught on Camera with Nick Cannon,[],Ended,English,2014-12-19,,NBC
+1189,Say Yes to the Dress: Since the Big Day,[],Ended,English,2011-10-14,,TLC
+1190,Wives with Knives,[],Running,English,2012-11-23,,Investigation Discovery
+1191,"Something Borrowed, Something New",[],Ended,English,2013-02-08,,TLC
+1192,Brad Meltzer's Lost History,['History'],Ended,English,2014-10-31,,Vice TV
+1193,Who the (Bleep) Did I Marry?,['Crime'],To be determined,English,2010-08-04,6.3,Investigation Discovery
+1194,Finding Bigfoot,[],Ended,English,2011-05-30,,Animal Planet
+1195,Alaska: The Last Frontier,['Adventure'],Ended,English,2011-12-29,8.0,Discovery
+1196,Most Evil,[],Ended,English,2006-07-13,6.8,Investigation Discovery
+1197,A Haunting,"['Drama', 'Horror', 'Mystery']",Ended,English,2005-10-28,7.9,Travel Channel
+1198,Cutthroat Kitchen,['Food'],Ended,English,2013-08-11,6.8,Food Network
+1200,Alaska Off-Road Warriors,"['Adventure', 'Sports']",Ended,English,2014-11-30,,History
+1201,Bizarre Foods with Andrew Zimmern,"['Food', 'Travel']",Ended,English,2007-02-26,7.0,Travel Channel
+1202,Street Outlaws: Full Throttle,[],Running,English,2013-06-21,,Discovery
+1203,The Little Couple,[],Ended,English,2009-05-26,7.3,TLC
+1204,A Crime to Remember,"['Drama', 'Crime', 'Mystery']",Ended,English,2013-11-12,6.9,Investigation Discovery
+1205,Suave Says,[],Ended,English,2014-12-03,,VH1
+1206,Little Women: LA,['Drama'],Ended,English,2014-05-27,4.2,Lifetime
+1207,The Millionaire Matchmaker,[],Ended,English,2008-01-22,,Bravo
+1208,Alaskan Bush People,"['Adventure', 'Nature']",Ended,English,2014-05-06,6.6,Discovery
+1209,The Curse of Oak Island,"['Adventure', 'Mystery', 'Nature']",To be determined,English,2014-01-05,6.8,History
+1210,How to Make It in America,"['Drama', 'Comedy']",Ended,English,2010-02-14,7.6,HBO
+1211,Mixology,"['Comedy', 'Romance']",Ended,English,2014-02-26,7.3,ABC
+1212,Almost Royal,['Comedy'],Ended,English,2014-06-21,6.7,BBC America
+1213,Cleaners,"['Action', 'Crime', 'Thriller']",Ended,English,2013-10-03,6.5,Unknown
+1214,Come Fly with Me,"['Comedy', 'Travel']",Ended,English,2010-12-25,7.9,BBC One
+1215,Hollands Hoop,"['Drama', 'Crime']",Ended,Dutch,2014-09-27,,NPO 3
+1216,Bosch,"['Drama', 'Crime', 'Mystery']",Ended,English,2015-02-13,8.5,Unknown
+1217,The Defenders,"['Drama', 'Comedy', 'Legal']",Ended,English,2010-09-22,6.6,CBS
+1218,Family Tree,"['Drama', 'Comedy']",Ended,English,2013-05-12,6.1,HBO
+1220,Wallander,"['Drama', 'Crime']",Ended,English,2008-11-30,7.9,BBC One
+1221,Super Fun Night,['Comedy'],Ended,English,2013-10-02,6.9,ABC
+1222,Sleeper Cell,"['Drama', 'Crime', 'Espionage']",Ended,English,2005-12-04,7.9,Paramount+ with Showtime
+1224,"Unsere Mütter, unsere Väter","['Drama', 'Action', 'War']",Ended,German,2013-03-17,8.0,ZDF
+1225,Red Widow,"['Drama', 'Crime', 'Thriller']",Ended,English,2013-03-03,6.7,ABC
+1226,Profugos,"['Drama', 'Action', 'Crime']",Ended,Spanish,2011-09-04,,HBO
+1227,Prime Suspect,"['Drama', 'Crime', 'Thriller']",Ended,English,2011-09-22,6.7,NBC
+1228,Penoza,"['Drama', 'Crime']",Ended,Dutch,2010-09-12,8.0,NPO 3
+1229,Paradox,"['Drama', 'Science-Fiction']",Ended,English,2009-11-24,6.8,BBC One
+1230,Outsourced,['Comedy'],Ended,English,2010-09-23,7.9,NBC
+1231,North America,['Nature'],Ended,English,2013-05-19,,Discovery
+1232,Nieuwe Buren,['Drama'],Ended,Dutch,2014-09-14,,Unknown
+1234,The Mob Doctor,"['Drama', 'Medical']",Ended,English,2012-09-17,6.6,FOX
+1235,Low Winter Sun,"['Drama', 'Crime']",Ended,English,2013-08-11,7.3,AMC
+1236,King & Maxwell,"['Drama', 'Action', 'Crime']",Ended,English,2013-06-10,7.7,TNT
+1237,The Kill Point,"['Drama', 'Action', 'Crime']",Ended,English,2007-07-22,6.6,Paramount Network
+1238,The Kennedys,"['Drama', 'History']",Ended,English,2011-04-03,7.7,REELZ
+1239,Gang Related,"['Drama', 'Action', 'Crime']",Ended,English,2014-05-22,6.9,FOX
+1240,Generation Kill,"['Drama', 'War']",Ended,English,2008-07-13,8.0,HBO
+1241,Golden Boy,"['Drama', 'Crime']",Ended,English,2013-02-26,7.1,CBS
+1242,Hit & Miss,"['Drama', 'Action', 'Crime']",Ended,English,2012-05-22,7.6,Sky Atlantic
+1243,Houdini,['Drama'],Ended,English,2014-09-01,8.0,History
+1244,How to Live with Your Parents (for the Rest of Your Life),['Comedy'],Ended,English,2013-04-03,6.3,ABC
+1245,Ironside,"['Drama', 'Action', 'Crime']",Ended,English,2013-10-02,7.7,NBC
+1246,The Jeff Dunham Show,['Comedy'],Ended,English,2009-10-22,6.6,Comedy Central
+1247,Gooische Vrouwen,"['Drama', 'Romance']",Ended,Dutch,2005-10-30,,RTL4
+1248,Blossom,"['Drama', 'Comedy', 'Family']",Ended,English,1990-07-05,7.4,NBC
+1249,The Brady Bunch,"['Comedy', 'Family']",Ended,English,1969-09-26,7.1,ABC
